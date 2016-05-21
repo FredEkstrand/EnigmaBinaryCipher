@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B4D65347-B73F-4937-B09E-8148851C96F3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ekstrand.Encryption.Ciphers</RootNamespace>
+    <AssemblyName>Ekstrand.Encryption.Ciphers</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\Ekstrand.Encryption.Ciphers.xml</DocumentationFile>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbstractCipherController.cs" />
+    <Compile Include="AbstractPlugboard.cs" />
+    <Compile Include="AbstractRotor.cs" />
+    <Compile Include="AbstractRotorController.cs" />
+    <Compile Include="AbstractTurn.cs" />
+    <Compile Include="CipherController.cs" />
+    <Compile Include="CryptoException.cs" />
+    <Compile Include="DataLengthException.cs" />
+    <Compile Include="EndPointPair.cs" />
+    <Compile Include="EnigmaBinary.cs" />
+    <Compile Include="EnigmaBinaryConfiguration.cs" />
+    <Compile Include="EnigmaBinaryParameters.cs" />
+    <Compile Include="EnigmaManager.cs" />
+    <Compile Include="EntryRotor.cs" />
+    <Compile Include="EntryRotorParameters.cs" />
+    <Compile Include="ICipherController.cs" />
+    <Compile Include="ICipherParameters.cs" />
+    <Compile Include="IEntryRotorParameters.cs" />
+    <Compile Include="IPlugboard.cs" />
+    <Compile Include="IReflectorParameters.cs" />
+    <Compile Include="IRotor.cs" />
+    <Compile Include="IRotorController.cs" />
+    <Compile Include="IRotorParameters.cs" />
+    <Compile Include="IStreamCipher.cs" />
+    <Compile Include="ITurn.cs" />
+    <Compile Include="Plugboard.cs" />
+    <Compile Include="PlugboardParameters.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandomEndPointsGenerator.cs" />
+    <Compile Include="Reflector.cs" />
+    <Compile Include="ReflectorParameters.cs" />
+    <Compile Include="Rotor.cs" />
+    <Compile Include="RotorController.cs" />
+    <Compile Include="RotorParameters.cs" />
+    <Compile Include="RotorTurnDirection.cs" />
+    <Compile Include="Turn.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Artifacts\MITLicense.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

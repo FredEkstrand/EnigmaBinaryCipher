@@ -1,0 +1,6 @@
+C:\Users\Fred Ekstrand\documents\visual studio 2015\Projects\EnigmaBinary\EnigmasSecurity\bin\Debug\EnigmasSecurity.exe.config
+C:\Users\Fred Ekstrand\documents\visual studio 2015\Projects\EnigmaBinary\EnigmasSecurity\bin\Debug\EnigmasSecurity.exe
+C:\Users\Fred Ekstrand\documents\visual studio 2015\Projects\EnigmaBinary\EnigmasSecurity\bin\Debug\EnigmasSecurity.pdb
+C:\Users\Fred Ekstrand\documents\visual studio 2015\Projects\EnigmaBinary\EnigmasSecurity\obj\Debug\EnigmasSecurity.exe
+C:\Users\Fred Ekstrand\documents\visual studio 2015\Projects\EnigmaBinary\EnigmasSecurity\obj\Debug\EnigmasSecurity.pdb
+C:\Users\Fred Ekstrand\documents\visual studio 2015\Projects\EnigmaBinary\EnigmasSecurity\obj\Debug\EnigmasSecurity.csprojResolveAssemblyReference.cache

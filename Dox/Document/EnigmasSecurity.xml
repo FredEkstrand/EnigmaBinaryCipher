@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>EnigmasSecurity</name>
+  </assembly>
+  <members>
+    <member name="T:EnigmasSecurity.Program"></member>
+    <member name="M:EnigmasSecurity.Program.#ctor"></member>
+    <member name="M:EnigmasSecurity.Program.Combination(System.Int32,System.Int32)"></member>
+    <member name="M:EnigmasSecurity.Program.DoubleFactorial(System.Int32)"></member>
+    <member name="M:EnigmasSecurity.Program.Factorial(System.Int32)"></member>
+    <member name="M:EnigmasSecurity.Program.Main(System.String[])"></member>
+    <member name="M:EnigmasSecurity.Program.Permutation(System.Int32,System.Int32)"></member>
+    <member name="M:EnigmasSecurity.Program.PlugboardStrength"></member>
+    <member name="M:EnigmasSecurity.Program.Power(System.Numerics.BigInteger,System.Int32)"></member>
+    <member name="M:EnigmasSecurity.Program.ReflectorStrength"></member>
+    <member name="M:EnigmasSecurity.Program.RotorInitialPositions"></member>
+    <member name="M:EnigmasSecurity.Program.RotorStrength"></member>
+    <member name="M:EnigmasSecurity.Program.RotorTurning"></member>
+    <member name="T:System.StringExtensions"></member>
+    <member name="M:System.StringExtensions.PadCenter(System.String,System.Int32)"></member>
+    <member name="M:System.StringExtensions.PadCenter(System.String,System.Int32,System.Char)"></member>
+    <member name="M:System.StringExtensions.PadRightCrop(System.String,System.Int32)"></member>
+    <member name="M:System.StringExtensions.PadRightCrop(System.String,System.Int32,System.Char)"></member>
+  </members>
+</doc>
