@@ -22,11 +22,9 @@ Global
 		{D8F99424-34DA-4FF5-8734-9E3061E8F8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D8F99424-34DA-4FF5-8734-9E3061E8F8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8F99424-34DA-4FF5-8734-9E3061E8F8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D8F99424-34DA-4FF5-8734-9E3061E8F8D9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{39D8A86F-0C19-4F6D-AC68-CF88C546323E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{39D8A86F-0C19-4F6D-AC68-CF88C546323E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39D8A86F-0C19-4F6D-AC68-CF88C546323E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{39D8A86F-0C19-4F6D-AC68-CF88C546323E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
