@@ -81,7 +81,7 @@ namespace Ekstrand.Encryption.Ciphers
         }
 
         /// <summary>
-        /// Reset Rotor back to starting position
+        /// Resets back to its start state.
         /// </summary>
         /// <remarks>Not used</remarks>
         public override void Reset()

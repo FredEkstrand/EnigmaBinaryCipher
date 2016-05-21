@@ -40,7 +40,6 @@ namespace Ekstrand.Encryption.Ciphers
 #pragma warning restore CS1591 // Missing XML comment for publicly visible type or member
 
         private IRotor m_NextRotor = null;                      // Reference to next rotor.
-        private IRotor m_PrevRotor = null;                      // Reference to previous rotor.
         private int m_StartPosition = 0;                        // Rotor start position.
         private int m_Incrementation = 1;                       // Rotor incrementation amount 
         private RotorTurnDirection m_TurnDirection = RotorTurnDirection.CW;
@@ -66,7 +65,7 @@ namespace Ekstrand.Encryption.Ciphers
         /// <summary>
         /// Initializes a new instance of the <see cref="AbstractRotor"/> class.
         /// </summary>
-        public AbstractRotor()
+        internal AbstractRotor()
 		{
             m_Transulation = new Dictionary<byte, byte>();
         }
@@ -81,7 +80,7 @@ namespace Ekstrand.Encryption.Ciphers
         public abstract void Clear();
 
         /// <summary>
-        /// Endcode/Decode byte
+        /// Encode/Decode byte
         /// </summary>
         /// <param name="value">The value.</param>
         ///  /// <param name="encode">Bool mode of operation "true" is encode and "false" is decode</param>
@@ -91,7 +90,7 @@ namespace Ekstrand.Encryption.Ciphers
         public abstract byte ProcessByte(byte value, bool encode);
 
         /// <summary>
-        /// Reset Rotor back to starting position
+        /// Resets back to its start state. 
         /// </summary>
         public abstract void Reset();
 
@@ -101,7 +100,7 @@ namespace Ekstrand.Encryption.Ciphers
         public abstract void Turn();
 
         /// <summary>
-        /// Populates the transulation points.
+        /// Populates the Translation points.
         /// </summary>
         /// <param name="values">The values.</param>
         protected void PopulateTransulationPoints(EndPointPair<byte, byte>[] values)
@@ -115,7 +114,7 @@ namespace Ekstrand.Encryption.Ciphers
         }
 
         /// <summary>
-        /// Validates the transulation points.
+        /// Validates the Translation points.
         /// </summary>
         /// <param name="values">The values.</param>
         /// <exception cref="System.InvalidOperationException">Can not change end points while in use. You must Reset first.</exception>

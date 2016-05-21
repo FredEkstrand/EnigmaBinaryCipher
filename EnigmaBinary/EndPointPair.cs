@@ -1,4 +1,4 @@
-/*
+﻿/*
 	Software Developer: Fred Ekstrand 
     Copyright (C) 2016 by: Fred Ekstrand
 
@@ -25,15 +25,14 @@ namespace Ekstrand.Encryption.Ciphers
     /// <summary>
     /// Defines an end point pair.
     /// </summary>
-    /// <typeparam name="T1">Type T1</typeparam>
-    /// <typeparam name="T2">Type T2</typeparam>
+    /// <typeparam name="T1">The type of the EndPointPair's first component.</typeparam>
+    /// <typeparam name="T2">The type of the EndPointPair's second component.</typeparam>
     [Serializable]
     public class EndPointPair<T1, T2> where T1 : IComparable<T1>, IComparable
 	{
         /// <summary>
         /// Initializes a new instance of the <see cref="EndPointPair{T1, T2}"/> class.
         /// </summary>
-        /// <exception cref="System.NotImplementedException"></exception>
         public EndPointPair()
 		{
             SideA = default(T1);
@@ -43,9 +42,8 @@ namespace Ekstrand.Encryption.Ciphers
         /// <summary>
         /// Initializes a new instance of the <see cref="EndPointPair{T1, T2}"/> class.
         /// </summary>
-        /// <param name="sideA">Type T1</param>
-        /// <param name="sideB">Type T2</param>
-        /// <exception cref="System.NotImplementedException"></exception>
+        /// <param name="sideA">The type of the EndPointPair's sideA component.</param>
+        /// <param name="sideB">The type of the EndPointPair's sideB component.</param>
         public EndPointPair(T1 sideA, T2 sideB):this()
 		{
             SideA = sideA;
@@ -53,33 +51,29 @@ namespace Ekstrand.Encryption.Ciphers
 		}
 
         /// <summary>
-        /// Gets or sets the SideA
+        /// Gets the value of the current EndPointPair&lt;T1, T2&gt; object's sideA component.
         /// </summary>
         /// <value>
-        /// Type T1
+        /// The type of the EndPointPair's sideA component.
         /// </value>
-        /// <exception cref="System.NotImplementedException">
-        /// </exception>
         public T1 SideA
 		{
             get; set;
 		}
 
         /// <summary>
-        /// Gets or sets the SideB.
+        /// Gets the value of the current EndPointPair&lt;T1, T2&gt; object's sideB component.
         /// </summary>
         /// <value>
-        /// Type T2
+        /// The type of the EndPointPair's sideB component.
         /// </value>
-        /// <exception cref="System.NotImplementedException">
-        /// </exception>
         public T2 SideB
 		{
             get; set;
 		}
 
         /// <summary>
-        /// Compares to.
+        /// An object to compare with this instance. 
         /// </summary>
         /// <param name="obj">The object.</param>
         /// <returns>Returns -1 if less than or null, 0 if equal or 1 if greater than.</returns>
@@ -90,7 +84,7 @@ namespace Ekstrand.Encryption.Ciphers
         }
 
         /// <summary>
-        /// Compares to.
+        /// A T1 to compare with this instance. 
         /// </summary>
         /// <param name="other">Type EndPointPair&lt;T1, T2&gt;</param>
         /// <returns>Returns -1 if less than or null, 0 if equal or 1 if greater than.</returns>

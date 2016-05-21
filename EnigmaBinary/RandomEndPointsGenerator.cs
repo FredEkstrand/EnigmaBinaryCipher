@@ -33,7 +33,7 @@ namespace Ekstrand.Encryption.Ciphers
         private Random rand = new Random();
 
         /// <summary>
-        /// Transposition level
+        /// Transposition pair strength level.
         /// </summary>
         public enum TranspositionLevel
         {

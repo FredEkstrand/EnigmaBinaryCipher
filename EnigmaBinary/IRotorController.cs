@@ -42,7 +42,7 @@ namespace Ekstrand.Encryption.Ciphers
         byte ProcessByte(byte value, bool encode = true );
 
         /// <summary>
-        /// Resets controller back to starting position
+        /// Resets its components back to their start state. 
         /// </summary>
         void Reset();
 

@@ -47,7 +47,7 @@ namespace Ekstrand.Encryption.Ciphers
         /// <summary>
         /// Initializes a new instance of the <see cref="AbstractTurn"/> class.
         /// </summary>
-        public AbstractTurn()
+        internal AbstractTurn()
 		{
             Rotor = null;
             NextTurn = null;
@@ -69,7 +69,7 @@ namespace Ekstrand.Encryption.Ciphers
         public abstract void Clear();
 
         /// <summary>
-        /// Resets this instance.
+        /// Resets back to its start state.
         /// </summary>
         public void Reset()
         {

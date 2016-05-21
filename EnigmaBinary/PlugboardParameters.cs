@@ -24,7 +24,7 @@ using System.Text;
 namespace Ekstrand.Encryption.Ciphers
 {
     /// <summary>
-    /// Plugboard 
+    /// Provide configuration for Plugboard 
     /// </summary>
     public class PlugboardParameters
     {

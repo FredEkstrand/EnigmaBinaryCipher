@@ -44,6 +44,11 @@ namespace Ekstrand.Encryption.Ciphers
 
         #region Events
 
+        /// <summary>
+        /// Collections has changed.
+        /// </summary>
+        /// <param name="sender">Object sender</param>
+        /// <param name="e">The <see cref="System.Collections.Specialized.NotifyCollectionChangedEventArgs"/> instance containing the event data.</param>
         private void CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)
         {
             if (this.Rotors.Count == this.Turns.Count &&
@@ -148,7 +153,7 @@ namespace Ekstrand.Encryption.Ciphers
         }
 
         /// <summary>
-        /// Resets controller back to starting position
+        /// Resets its components back to their start state.
         /// </summary>
         public override void Reset()
 		{

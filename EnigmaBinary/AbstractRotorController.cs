@@ -55,7 +55,7 @@ namespace Ekstrand.Encryption.Ciphers
         /// Initializes a new instance of the <see cref="AbstractRotorController"/> class.
         /// </summary>
         /// <exception cref="System.NotImplementedException"></exception>
-        protected AbstractRotorController()
+        internal AbstractRotorController()
 		{
             m_Rotors = new ObservableCollection<IRotor>();
             m_Turns = new ObservableCollection<ITurn>();
@@ -84,7 +84,7 @@ namespace Ekstrand.Encryption.Ciphers
         public abstract byte ProcessByte(byte value, bool encode = true);
 
         /// <summary>
-        /// Resets controller back to starting position
+        /// Resets its components back to their start state.
         /// </summary>
         public abstract void Reset();
 

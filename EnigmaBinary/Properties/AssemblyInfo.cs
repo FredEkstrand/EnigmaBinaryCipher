@@ -34,3 +34,10 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
+
+/*
+ * Allow internal class to be accessible for unit testing during debugging.
+*/
+#if DEBUG
+[assembly: InternalsVisibleTo("EnigmaBinaryTest")]
+#endif

@@ -89,17 +89,17 @@
     <Compile Include="Fake Components\FakeRotorController.cs" />
     <Compile Include="Fake Components\FakeTurn.cs" />
     <Compile Include="IntegrationTest\RotorControllerIntegrationTests.cs" />
-    <Compile Include="UnitTest\TurnTests.cs" />
-    <Compile Include="UnitTest\EndPointPairTestSet.cs" />
-    <Compile Include="UnitTest\EntryRotorTests.cs" />
+    <Compile Include="UnitTest\TurnUnitTests.cs" />
+    <Compile Include="UnitTest\EndPointPairUnitTest.cs" />
+    <Compile Include="UnitTest\EntryRotorUnitTests.cs" />
     <Compile Include="Fake Components\FackEntryRotor.cs" />
     <Compile Include="Fake Components\FakeRotor.cs" />
-    <Compile Include="UnitTest\PlugboardTests.cs" />
+    <Compile Include="UnitTest\PlugboardUnitTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UnitTest\RandomGeneratorTests.cs" />
-    <Compile Include="UnitTest\ReflectorTests.cs" />
+    <Compile Include="UnitTest\RandomGeneratorUnitTests.cs" />
+    <Compile Include="UnitTest\ReflectorUnitTests.cs" />
     <Compile Include="UnitTest\RotorControllerUnitTests.cs" />
-    <Compile Include="UnitTest\RotorTestSet.cs" />
+    <Compile Include="UnitTest\RotorUnitTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

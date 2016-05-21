@@ -18,10 +18,14 @@
             Data Length Exception
             </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="2820ab51-a944-9c28-7a24-98f5f8e8a388.htm">EndPointPair<span id="LST7BA5BCC2_0"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST7BA5BCC2_0?cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'");</script>T1, T2<span id="LST7BA5BCC2_1"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST7BA5BCC2_1?cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;");</script></a></td><td><div class="summary">
             Defines an end point pair.
-            </div></td></tr><tr data="class; public"><td><img src="../icons/protclass.gif" alt="Protected class" title="Protected class" /></td><td><a href="0cb18045-c154-ee28-f144-4a573bb7b363.htm">EnigmaBinaryConfiguration</a></td><td /></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="1329f7f0-c76c-2868-3389-33f3ae3e1102.htm">EnigmaBinaryParameters</a></td><td><div class="summary">
+            </div></td></tr><tr data="class; public"><td><img src="../icons/protclass.gif" alt="Protected class" title="Protected class" /></td><td><a href="0cb18045-c154-ee28-f144-4a573bb7b363.htm">EnigmaBinaryConfiguration</a></td><td><div class="summary">
+            Enigma Binary Configuration class is responsible for:
+            Reading configuration file and configure Enigma Manager, and
+            Create a configuration file. 
+            </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="1329f7f0-c76c-2868-3389-33f3ae3e1102.htm">EnigmaBinaryParameters</a></td><td><div class="summary">
             Provide configuration for the Encryption.Ciphers
             </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="b2c7e3e1-a253-2639-d014-fde1df532a72.htm">EnigmaManager</a></td><td><div class="summary">
-            Responsible for managing operation, initialization, and configuring: EntryRotor, Rotors, Reflector, Turn, Plugboard, CipherController.
+            Responsible for managing: operation, initialization, and configuring: EntryRotor, Rotors, Reflector, Turn, Plugboard, CipherController and RotorController.
             </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="a2895144-b3dc-d5bf-3523-28399c33be11.htm">EntryRotor</a></td><td><div class="summary">
             Defines EntryRotor operations.
             </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="abe25113-b98b-23ef-67fb-4f651427818d.htm">EntryRotorParameters</a></td><td><div class="summary">
@@ -29,7 +33,7 @@
             </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="62a715af-cc06-8b3c-85dd-257856d92537.htm">Plugboard</a></td><td><div class="summary">
             Defines Plugboard operations.
             </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="71799b63-2c84-e22e-7275-fba186f5be6a.htm">PlugboardParameters</a></td><td><div class="summary">
-            Plugboard 
+            Provide configuration for Plugboard 
             </div></td></tr><tr data="class; public"><td><img src="../icons/protclass.gif" alt="Protected class" title="Protected class" /></td><td><a href="a7c9efe6-1ca8-bd93-f4ac-d9138ecac4c1.htm">RandomEndPointsGenerator</a></td><td><div class="summary">
             Randomly generated set of EntryRotor, Rotor, Reflector, and Plugboard end points pairs.
             </div></td></tr><tr data="class; public"><td><img src="../icons/pubclass.gif" alt="Public class" title="Public class" /></td><td><a href="1df4fdf8-d5ab-f046-d483-640d0857ba4b.htm">Reflector</a></td><td><div class="summary">
@@ -62,12 +66,12 @@
             Defines methods for EntryRotor, Rotors, Reflector, and Turns operations
             </div></td></tr><tr data="interface; public"><td><img src="../icons/pubinterface.gif" alt="Public interface" title="Public interface" /></td><td><a href="95872e72-598b-51f0-ce57-4b2d594b8cb9.htm">IRotorParameters</a></td><td><div class="summary">
             Provides configuration settings for a rotor
-            </div></td></tr><tr data="interface; public"><td><img src="../icons/pubinterface.gif" alt="Public interface" title="Public interface" /></td><td><a href="eb85046d-39d9-77cf-5f9a-c3c9c0632b40.htm">IStreamCipher</a></td><td><div class="summary">The interface stream ciphers conform to.</div></td></tr><tr data="interface; public"><td><img src="../icons/pubinterface.gif" alt="Public interface" title="Public interface" /></td><td><a href="99048dc4-91ed-13de-5614-bdef63ce7955.htm">ITurn</a></td><td><div class="summary">
+            </div></td></tr><tr data="interface; public"><td><img src="../icons/pubinterface.gif" alt="Public interface" title="Public interface" /></td><td><a href="eb85046d-39d9-77cf-5f9a-c3c9c0632b40.htm">IStreamCipher</a></td><td><div class="summary">Defining the interface for a stream cipher.</div></td></tr><tr data="interface; public"><td><img src="../icons/pubinterface.gif" alt="Public interface" title="Public interface" /></td><td><a href="99048dc4-91ed-13de-5614-bdef63ce7955.htm">ITurn</a></td><td><div class="summary">
             Defines methods for Turn operations
             </div></td></tr></table></div><div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID2RB')" onkeypress="SectionExpandCollapse_CheckKey('ID2RB', event)" tabindex="0"><img id="ID2RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Enumerations</span></div><div id="ID2RBSection" class="collapsibleSection"><table id="typeList" class="members"><tr><th class="iconColumn">
 					 
 				</th><th>Enumeration</th><th>Description</th></tr><tr data="enumeration; public"><td><img src="../icons/pubenumeration.gif" alt="Public enumeration" title="Public enumeration" /></td><td><a href="d83f334a-4959-47ee-411f-e5dbe2640a98.htm">RandomEndPointsGenerator<span id="LST7BA5BCC2_2"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST7BA5BCC2_2?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>TranspositionLevel</a></td><td><div class="summary">
-            Transposition level
+            Transposition pair strength level.
             </div></td></tr><tr data="enumeration; public"><td><img src="../icons/pubenumeration.gif" alt="Public enumeration" title="Public enumeration" /></td><td><a href="118cedab-1adb-af89-f682-579bb9d72b2c.htm">RotorTurnDirection</a></td><td><div class="summary">
             Rotor Turn Direction
             </div></td></tr></table></div></div></div><div id="pageFooter" class="pageFooter"><p>Copyright © 2016</p> </div></body><script type="text/javascript">

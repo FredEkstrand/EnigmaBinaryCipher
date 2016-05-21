@@ -42,7 +42,7 @@ namespace Ekstrand.Encryption.Ciphers
         /// <summary>
         /// Initializes a new instance of the <see cref="AbstractCipherController"/> class.
         /// </summary>
-        public AbstractCipherController()
+        internal AbstractCipherController()
         {
             RotorController = null;
             Plugboard = null;
@@ -69,7 +69,7 @@ namespace Ekstrand.Encryption.Ciphers
         public abstract byte ProcessByte(byte value, bool encode = true);
 
         /// <summary>
-        /// Resets back to its start state
+        /// Resets its components back to their start state.
         /// </summary>
         public abstract void Reset();
 

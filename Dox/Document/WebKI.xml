@@ -129,18 +129,18 @@
   <HelpKINode Title="ByteProccessedSimple property" Url="html/3d106c91-da96-2b79-478c-b2ba9b1177dc.htm" />
   <HelpKINode Title="CCW enumeration member" Url="html/118cedab-1adb-af89-f682-579bb9d72b2c.htm" />
   <HelpKINode Title="Change_CipherController_Inuse method" Url="html/227c80ee-42d3-9484-9b15-62d06b26b93a.htm" />
-  <HelpKINode Title="Change_Incrementation method" Url="html/9df79f95-5fe6-28b7-06a4-29123a9317c2.htm" />
-  <HelpKINode Title="Change_NextTurn method" Url="html/d8cf095f-c25d-d59f-74cb-7a3631cd5dc4.htm" />
-  <HelpKINode Title="Change_Rotor method" Url="html/bba80e23-2a6c-ba0a-a7d6-0ef999455fe7.htm" />
-  <HelpKINode Title="Change_StartPosition method" Url="html/30095d0f-7427-b07e-7b2a-82057c1b689f.htm" />
+  <HelpKINode Title="Change_Incrementation method" Url="html/100dbc03-de47-0ee0-08fd-b0ce5c7a2647.htm" />
+  <HelpKINode Title="Change_NextTurn method" Url="html/42a5eeae-7813-230c-90c5-3150e41768c3.htm" />
+  <HelpKINode Title="Change_Rotor method" Url="html/9228f32a-5ace-1ea2-d52a-918f77a2ad64.htm" />
+  <HelpKINode Title="Change_StartPosition method" Url="html/07a65750-895f-4baa-7890-244a3545e556.htm" />
   <HelpKINode Title="Change_SubstitutionSet_After_Clear method" Url="html/67959a37-b9aa-7c86-0d3d-b6ca48b87af7.htm" />
   <HelpKINode Title="Change_SubstitutionSet_Exception method">
-    <HelpKINode Title="EntryRotorTests.Change_SubstitutionSet_Exception Method " Url="html/09107223-593a-866c-ba19-c98c9a41f4f4.htm" />
-    <HelpKINode Title="ReflectorTests.Change_SubstitutionSet_Exception Method " Url="html/366ae860-b60c-c11c-f360-45071edfbfa7.htm" />
-    <HelpKINode Title="RotorTestSet.Change_SubstitutionSet_Exception Method " Url="html/a1fcc852-1b22-b0c5-83f0-f3408a228ab0.htm" />
+    <HelpKINode Title="EntryRotorUnitTests.Change_SubstitutionSet_Exception Method " Url="html/6b70b554-cdf7-9ca9-c655-17facf688705.htm" />
+    <HelpKINode Title="ReflectorUnitTests.Change_SubstitutionSet_Exception Method " Url="html/e201a4d8-a862-e78d-b61b-06bee2680fad.htm" />
+    <HelpKINode Title="RotorUnitTest.Change_SubstitutionSet_Exception Method " Url="html/5fe03c17-8faa-9356-6c9a-e0c07e8ae421.htm" />
   </HelpKINode>
-  <HelpKINode Title="Change_TurnDirection_Exception method" Url="html/85922d9a-ba2b-c03a-2767-8687287b6e3c.htm" />
-  <HelpKINode Title="CheckForDuplicatEntries method" Url="html/feccaafe-3ee4-6b34-6822-bbc10d766eac.htm" />
+  <HelpKINode Title="Change_TurnDirection_Exception method" Url="html/994b3735-507f-4eb9-4f29-72eb24b196ef.htm" />
+  <HelpKINode Title="CheckForDuplicatEntries method" Url="html/c20b7a4e-5743-0e27-035d-a1436727a120.htm" />
   <HelpKINode Title="CipherController class">
     <HelpKINode Title="CipherController Class" Url="html/168f30dc-49d6-e7ff-0f87-04a35804e0c1.htm" />
     <HelpKINode Title="about CipherController class" Url="html/168f30dc-49d6-e7ff-0f87-04a35804e0c1.htm" />
@@ -163,13 +163,13 @@
   <HelpKINode Title="CipherControllerIntegrationTest class">
     <HelpKINode Title="CipherControllerIntegrationTest Class" Url="html/2c520ba9-9189-a33b-d094-9697af57fd3b.htm" />
     <HelpKINode Title="about CipherControllerIntegrationTest class" Url="html/2c520ba9-9189-a33b-d094-9697af57fd3b.htm" />
-    <HelpKINode Title="constructor" Url="html/39b6238e-56a8-b245-c1f5-341df8273291.htm" />
     <HelpKINode Title="constructor" Url="html/3e2a12f8-3e26-8d4e-f38f-d73eaf61cbbf.htm" />
+    <HelpKINode Title="constructor" Url="html/39b6238e-56a8-b245-c1f5-341df8273291.htm" />
     <HelpKINode Title="methods" Url="html/c2e97ff0-3865-1811-716c-20708a46067d.htm" />
   </HelpKINode>
   <HelpKINode Title="CipherControllerIntegrationTest.CipherControllerIntegrationTest constructor">
-    <HelpKINode Title="CipherControllerIntegrationTest Constructor " Url="html/39b6238e-56a8-b245-c1f5-341df8273291.htm" />
     <HelpKINode Title="CipherControllerIntegrationTest Constructor " Url="html/3e2a12f8-3e26-8d4e-f38f-d73eaf61cbbf.htm" />
+    <HelpKINode Title="CipherControllerIntegrationTest Constructor " Url="html/39b6238e-56a8-b245-c1f5-341df8273291.htm" />
   </HelpKINode>
   <HelpKINode Title="CipherControllerIntegrationTest.Encode_Decode_No_Errors_BOTH method" Url="html/58f7e11d-5537-65f9-2d1e-12b987c028b8.htm" />
   <HelpKINode Title="CipherControllerIntegrationTest.Encode_Decode_No_Errors_CCW method" Url="html/b8123358-a43a-3cd6-bad0-09975958b0c9.htm" />
@@ -181,13 +181,13 @@
   <HelpKINode Title="CipherControllerUnitTest class">
     <HelpKINode Title="CipherControllerUnitTest Class" Url="html/fbc2ecdf-9fde-09c0-2580-0edce1c7c330.htm" />
     <HelpKINode Title="about CipherControllerUnitTest class" Url="html/fbc2ecdf-9fde-09c0-2580-0edce1c7c330.htm" />
-    <HelpKINode Title="constructor" Url="html/144fddb8-bb2c-1f40-2439-62fba80504cd.htm" />
     <HelpKINode Title="constructor" Url="html/04a5a510-337d-9e22-b316-d6c286329ec2.htm" />
+    <HelpKINode Title="constructor" Url="html/144fddb8-bb2c-1f40-2439-62fba80504cd.htm" />
     <HelpKINode Title="methods" Url="html/a70dd66a-e434-28e9-24d1-2bb409180f49.htm" />
   </HelpKINode>
   <HelpKINode Title="CipherControllerUnitTest.CipherControllerUnitTest constructor">
-    <HelpKINode Title="CipherControllerUnitTest Constructor " Url="html/04a5a510-337d-9e22-b316-d6c286329ec2.htm" />
     <HelpKINode Title="CipherControllerUnitTest Constructor " Url="html/144fddb8-bb2c-1f40-2439-62fba80504cd.htm" />
+    <HelpKINode Title="CipherControllerUnitTest Constructor " Url="html/04a5a510-337d-9e22-b316-d6c286329ec2.htm" />
   </HelpKINode>
   <HelpKINode Title="CipherControllerUnitTest.Clear method" Url="html/a8e37afd-84fa-4dfb-a401-e4ba823465c6.htm" />
   <HelpKINode Title="CipherControllerUnitTest.FakeEndPoints method" Url="html/6fcc71c6-9209-c3cf-a8ad-4020facb56c0.htm" />
@@ -212,7 +212,7 @@
     <HelpKINode Title="EnigmaManager.Clear Method " Url="html/0e40f775-a9b4-d30b-c42c-b172fea734a6.htm" />
     <HelpKINode Title="EnigmaManagerUnitTests.Clear Method " Url="html/c1b5552e-b0fd-10e3-1bb2-d7af5473a27d.htm" />
     <HelpKINode Title="EntryRotor.Clear Method " Url="html/5bd7ef2f-8be8-da33-7901-9c906abe2d7b.htm" />
-    <HelpKINode Title="EntryRotorTests.Clear Method " Url="html/432cb867-88e3-c8ab-5ab5-d535c653658b.htm" />
+    <HelpKINode Title="EntryRotorUnitTests.Clear Method " Url="html/73e5401b-74ae-1117-385b-24cf96dbb382.htm" />
     <HelpKINode Title="FakeEntryRotor.Clear Method " Url="html/0251b737-7353-1936-5312-b551b79b74ed.htm" />
     <HelpKINode Title="FakePlugboard.Clear Method " Url="html/6f617f12-df02-15b8-76c1-07600c6a0d13.htm" />
     <HelpKINode Title="FakeReflector.Clear Method " Url="html/da784ac2-6238-406a-06dd-0383705a8665.htm" />
@@ -227,25 +227,25 @@
     <HelpKINode Title="Plugboard.Clear Method " Url="html/3db7df79-0c3e-2e27-f70d-4186bce2ec8a.htm" />
     <HelpKINode Title="PlugboardTests.Clear Method " Url="html/1332480d-f039-b013-c68b-c91e03c67c12.htm" />
     <HelpKINode Title="Reflector.Clear Method " Url="html/7d8acd6f-5c91-5830-54b6-ec6f8254e742.htm" />
-    <HelpKINode Title="ReflectorTests.Clear Method " Url="html/91e0afec-d4d8-3a62-f6a1-d430d97c2a20.htm" />
+    <HelpKINode Title="ReflectorUnitTests.Clear Method " Url="html/150efd7a-badd-2ecc-78dc-8e99b9158ceb.htm" />
     <HelpKINode Title="Rotor.Clear Method " Url="html/d4e6a9dd-fc54-108d-96a0-6a7b8aa25999.htm" />
     <HelpKINode Title="RotorController.Clear Method " Url="html/48417b36-1051-7562-2121-498b11c6c24a.htm" />
     <HelpKINode Title="RotorControllerIntegrationTests.Clear Method " Url="html/b1718a92-7f07-de12-58b6-6be0d2a4e5c5.htm" />
     <HelpKINode Title="RotorControllerUnitTests.Clear Method " Url="html/ab6b9457-83f8-bf5c-3a68-cd8c479741c0.htm" />
-    <HelpKINode Title="RotorTestSet.Clear Method " Url="html/553b9fa7-0ca8-e37f-4ea6-9f1eaaba5758.htm" />
+    <HelpKINode Title="RotorUnitTest.Clear Method " Url="html/a601dbf5-7a91-392b-3955-9bcf51f155ba.htm" />
     <HelpKINode Title="Turn.Clear Method " Url="html/1ae8945d-f414-f75e-909a-54f709116f5a.htm" />
-    <HelpKINode Title="TurnTests.Clear Method " Url="html/ec7f3710-3584-5c7d-a79d-ecfbdcbfb894.htm" />
+    <HelpKINode Title="TurnUnitTests.Clear Method " Url="html/6eea48c3-fcf3-f7de-3423-dd956779d207.htm" />
   </HelpKINode>
   <HelpKINode Title="Clear_Then_Add_SubstitutionSet method">
-    <HelpKINode Title="EntryRotorTests.Clear_Then_Add_SubstitutionSet Method " Url="html/e4dbcb2d-9328-615f-2028-6d174d3f4433.htm" />
-    <HelpKINode Title="ReflectorTests.Clear_Then_Add_SubstitutionSet Method " Url="html/03372b01-6a7d-c671-2da3-183727b76d1c.htm" />
+    <HelpKINode Title="EntryRotorUnitTests.Clear_Then_Add_SubstitutionSet Method " Url="html/154f2ede-61ac-745d-1e0a-08b0ca1398cd.htm" />
+    <HelpKINode Title="ReflectorUnitTests.Clear_Then_Add_SubstitutionSet Method " Url="html/672acd83-51fb-d53b-9db3-62a26460cf5e.htm" />
   </HelpKINode>
   <HelpKINode Title="CollectionChanged method" Url="html/ef890cb6-616b-ec12-8f11-0d5f81379063.htm" />
   <HelpKINode Title="Combination method" Url="html/e30252a0-36ca-f697-49ff-6d3e930d9fd0.htm" />
   <HelpKINode Title="CompareTo method" Url="html/9a4bac18-e127-de8d-5517-4840e76a8826.htm" />
-  <HelpKINode Title="CompareToTestEqual method" Url="html/c3d792a9-fa68-ab9b-24e4-45857ae7be4a.htm" />
-  <HelpKINode Title="CompareToTestGreaterThan method" Url="html/32438d86-73bb-638e-1e4f-0970f8223c03.htm" />
-  <HelpKINode Title="CompareToTestLessThan method" Url="html/869c0868-4231-9146-7cce-95c4bd189534.htm" />
+  <HelpKINode Title="CompareToTestEqual method" Url="html/f3560d10-520f-3410-77e0-f3a34b54ed9c.htm" />
+  <HelpKINode Title="CompareToTestGreaterThan method" Url="html/c3efbd78-5ca8-717e-5a90-a6f6bd00e424.htm" />
+  <HelpKINode Title="CompareToTestLessThan method" Url="html/9d4afc54-3d79-3098-ac74-b5c178bb2e36.htm" />
   <HelpKINode Title="ConfigurationType method" Url="html/2e35bcd8-f240-533e-60c2-f603fadcab4a.htm" />
   <HelpKINode Title="ConfigurationTypes enumeration" Url="html/001765a5-59dd-654d-1bef-254eb670118d.htm" />
   <HelpKINode Title="CryptoException class">
@@ -265,10 +265,10 @@
     <HelpKINode Title="FakeRotor.Cycled Property " Url="html/bbd0c6e5-eb8c-5a82-3074-7006844f10f2.htm" />
     <HelpKINode Title="IRotor.Cycled Property " Url="html/30bd613d-14b6-19b1-87cb-b13c60ca10b8.htm" />
   </HelpKINode>
-  <HelpKINode Title="Cycled_Default_Value method" Url="html/ee01b7c5-fe4d-8328-ca6b-46bb1e128405.htm" />
-  <HelpKINode Title="Cycled_Null_Rotor method" Url="html/09083c1e-2b8f-24cf-b120-11dca10218f7.htm" />
-  <HelpKINode Title="Cycle_Check method" Url="html/1b4f3303-55b3-6120-14bd-4c378397d8a8.htm" />
-  <HelpKINode Title="Cycle_Check_Custom_StartPosition method" Url="html/079e6c33-7dc3-e10d-b80e-889d3e7a708c.htm" />
+  <HelpKINode Title="Cycled_Default_Value method" Url="html/909c3f44-3a25-9b4d-b4ed-9900420fd1f9.htm" />
+  <HelpKINode Title="Cycled_Null_Rotor method" Url="html/f7e1b367-5393-e7be-2868-3056a07cd6ff.htm" />
+  <HelpKINode Title="Cycle_Check method" Url="html/02adb5c2-9f01-bbfa-5f57-0116a9b8356f.htm" />
+  <HelpKINode Title="Cycle_Check_Custom_StartPosition method" Url="html/3d1856e5-f5f7-9f18-a367-db6ab2b68c2b.htm" />
   <HelpKINode Title="DataLengthException class">
     <HelpKINode Title="DataLengthException Class" Url="html/e07dfab9-581a-e804-d0d8-b0cfabe4e0d1.htm" />
     <HelpKINode Title="about DataLengthException class" Url="html/e07dfab9-581a-e804-d0d8-b0cfabe4e0d1.htm" />
@@ -294,16 +294,16 @@
     <HelpKINode Title="AbstractRotor.DUPLICATE_SIDE_B_ENDPOINTS Field" Url="html/6b526c10-2dfa-a04f-0d66-5fcec5e4a12f.htm" />
   </HelpKINode>
   <HelpKINode Title="Duplicat_Side_A_Exception method">
-    <HelpKINode Title="EntryRotorTests.Duplicat_Side_A_Exception Method " Url="html/bac5d82a-be30-ad68-78f3-096c22e26d81.htm" />
+    <HelpKINode Title="EntryRotorUnitTests.Duplicat_Side_A_Exception Method " Url="html/2bfc692f-8c99-b17b-9872-f506167e1a85.htm" />
     <HelpKINode Title="PlugboardTests.Duplicat_Side_A_Exception Method " Url="html/56741afc-532d-e0eb-376f-77f3d83ec98d.htm" />
-    <HelpKINode Title="ReflectorTests.Duplicat_Side_A_Exception Method " Url="html/399a6b67-157a-a869-d0fb-bf15b20dcff7.htm" />
-    <HelpKINode Title="RotorTestSet.Duplicat_Side_A_Exception Method " Url="html/11ec5abe-62ef-8b56-50c0-860f5e22abfa.htm" />
+    <HelpKINode Title="ReflectorUnitTests.Duplicat_Side_A_Exception Method " Url="html/1b6ad92c-7016-bb64-4a59-4c5a2b87a720.htm" />
+    <HelpKINode Title="RotorUnitTest.Duplicat_Side_A_Exception Method " Url="html/61944796-ee84-2a08-6395-598d89db2890.htm" />
   </HelpKINode>
   <HelpKINode Title="Duplicat_Side_B_Exception method">
-    <HelpKINode Title="EntryRotorTests.Duplicat_Side_B_Exception Method " Url="html/86af5a16-de05-e9c7-97e7-aa6231044069.htm" />
+    <HelpKINode Title="EntryRotorUnitTests.Duplicat_Side_B_Exception Method " Url="html/9be1497a-a8cb-c874-9649-75282c1ff2e2.htm" />
     <HelpKINode Title="PlugboardTests.Duplicat_Side_B_Exception Method " Url="html/3cd76099-0474-843b-7e4b-209ae2722bec.htm" />
-    <HelpKINode Title="ReflectorTests.Duplicat_Side_B_Exception Method " Url="html/0d1b4479-dbd9-623d-5e64-f6c2e27deabd.htm" />
-    <HelpKINode Title="RotorTestSet.Duplicat_Side_B_Exception Method " Url="html/331b0115-a6a7-3a4a-a7ce-79d76eb8af1d.htm" />
+    <HelpKINode Title="ReflectorUnitTests.Duplicat_Side_B_Exception Method " Url="html/b4c31831-ab33-c365-18b0-395fe6485ff2.htm" />
+    <HelpKINode Title="RotorUnitTest.Duplicat_Side_B_Exception Method " Url="html/d5840a10-24c6-1493-4480-b0d6adafd588.htm" />
   </HelpKINode>
   <HelpKINode Title="Ekstrand.Encryption.Ciphers namespace" Url="html/4a0bae2a-a358-ecdf-e04c-b05633207a6f.htm" />
   <HelpKINode Title="Ekstrand.Encryption.Ciphers.AbstractCipherController class" Url="html/31643203-cc79-fa6a-84db-2d91e59cc414.htm" />
@@ -394,16 +394,16 @@
   <HelpKINode Title="EndPointPair&lt;T1, T2&gt;.EndPointPair constructor" Url="html/a97fd270-24ab-c799-6bd4-6036b1e56b5d.htm" />
   <HelpKINode Title="EndPointPair&lt;T1, T2&gt;.SideA property" Url="html/c229e0f7-4584-d1ad-3462-e28ad55b83ba.htm" />
   <HelpKINode Title="EndPointPair&lt;T1, T2&gt;.SideB property" Url="html/a2f559f3-ddf9-0e0b-190b-9dcead078748.htm" />
-  <HelpKINode Title="EndPointPairTestSet class">
-    <HelpKINode Title="EndPointPairTestSet Class" Url="html/1c42663d-d58f-9215-cee3-5d255122ecc3.htm" />
-    <HelpKINode Title="about EndPointPairTestSet class" Url="html/1c42663d-d58f-9215-cee3-5d255122ecc3.htm" />
-    <HelpKINode Title="constructor" Url="html/dec2e26b-f2e2-9d4b-9da0-27fa6c85814e.htm" />
-    <HelpKINode Title="methods" Url="html/58f60368-173d-ad60-3f27-b4b0a3e8c901.htm" />
+  <HelpKINode Title="EndPointPairUnitTest class">
+    <HelpKINode Title="EndPointPairUnitTest Class" Url="html/249f0f09-d9c3-8ab9-6cbf-7fed25f0167c.htm" />
+    <HelpKINode Title="about EndPointPairUnitTest class" Url="html/249f0f09-d9c3-8ab9-6cbf-7fed25f0167c.htm" />
+    <HelpKINode Title="constructor" Url="html/3c0e2d4c-31af-41ed-9511-b7dac1e2fb7e.htm" />
+    <HelpKINode Title="methods" Url="html/728dbbe7-4a36-10ce-1c01-7db94a69c1c8.htm" />
   </HelpKINode>
-  <HelpKINode Title="EndPointPairTestSet.CompareToTestEqual method" Url="html/c3d792a9-fa68-ab9b-24e4-45857ae7be4a.htm" />
-  <HelpKINode Title="EndPointPairTestSet.CompareToTestGreaterThan method" Url="html/32438d86-73bb-638e-1e4f-0970f8223c03.htm" />
-  <HelpKINode Title="EndPointPairTestSet.CompareToTestLessThan method" Url="html/869c0868-4231-9146-7cce-95c4bd189534.htm" />
-  <HelpKINode Title="EndPointPairTestSet.EndPointPairTestSet constructor" Url="html/dec2e26b-f2e2-9d4b-9da0-27fa6c85814e.htm" />
+  <HelpKINode Title="EndPointPairUnitTest.CompareToTestEqual method" Url="html/f3560d10-520f-3410-77e0-f3a34b54ed9c.htm" />
+  <HelpKINode Title="EndPointPairUnitTest.CompareToTestGreaterThan method" Url="html/c3efbd78-5ca8-717e-5a90-a6f6bd00e424.htm" />
+  <HelpKINode Title="EndPointPairUnitTest.CompareToTestLessThan method" Url="html/9d4afc54-3d79-3098-ac74-b5c178bb2e36.htm" />
+  <HelpKINode Title="EndPointPairUnitTest.EndPointPairUnitTest constructor" Url="html/3c0e2d4c-31af-41ed-9511-b7dac1e2fb7e.htm" />
   <HelpKINode Title="EnigmaBinary class">
     <HelpKINode Title="EnigmaBinary Class" Url="html/8bfad88e-096f-5ea7-c5da-e8c7bcd2d975.htm" />
     <HelpKINode Title="about EnigmaBinary class" Url="html/8bfad88e-096f-5ea7-c5da-e8c7bcd2d975.htm" />
@@ -491,25 +491,16 @@
   <HelpKINode Title="EnigmaBinaryParameters.RotorParameters property" Url="html/f6ccdd16-0635-2c76-75c5-7661e6e9bb71.htm" />
   <HelpKINode Title="EnigmaBinaryParameters.Rotors property" Url="html/9f90c937-bd33-79eb-ba5b-466c97a3c4f8.htm" />
   <HelpKINode Title="EnigmaBinaryParameters.Turns property" Url="html/a35b5bd8-092d-42ee-6a51-8b0be8ae925e.htm" />
-  <HelpKINode Title="EnigmaBinaryParametersUnitTests class">
-    <HelpKINode Title="EnigmaBinaryParametersUnitTests Class" Url="html/65440c1a-0e97-551f-d0b5-0d4639e89028.htm" />
-    <HelpKINode Title="about EnigmaBinaryParametersUnitTests class" Url="html/65440c1a-0e97-551f-d0b5-0d4639e89028.htm" />
-    <HelpKINode Title="constructor" Url="html/b404ca5f-cbe4-d57e-3c97-f614e21e22fe.htm" />
-    <HelpKINode Title="methods" Url="html/3bf61ee7-5191-e2d0-1eff-732a675690f0.htm" />
-  </HelpKINode>
-  <HelpKINode Title="EnigmaBinaryParametersUnitTests.EnigmaBinaryParametersUnitTests constructor" Url="html/b404ca5f-cbe4-d57e-3c97-f614e21e22fe.htm" />
-  <HelpKINode Title="EnigmaBinaryParametersUnitTests.test method" Url="html/6ddd28c0-88d2-29b0-70b3-06ac6bf026df.htm" />
   <HelpKINode Title="EnigmaBinaryTest namespace" Url="html/81284390-655e-15fb-cd8b-dbaa852d54b6.htm" />
   <HelpKINode Title="EnigmaBinaryTest.CipherControllerIntegrationTest class" Url="html/2c520ba9-9189-a33b-d094-9697af57fd3b.htm" />
   <HelpKINode Title="EnigmaBinaryTest.CipherControllerUnitTest class" Url="html/fbc2ecdf-9fde-09c0-2580-0edce1c7c330.htm" />
   <HelpKINode Title="EnigmaBinaryTest.ConfigurationTypes enumeration" Url="html/001765a5-59dd-654d-1bef-254eb670118d.htm" />
-  <HelpKINode Title="EnigmaBinaryTest.EndPointPairTestSet class" Url="html/1c42663d-d58f-9215-cee3-5d255122ecc3.htm" />
+  <HelpKINode Title="EnigmaBinaryTest.EndPointPairUnitTest class" Url="html/249f0f09-d9c3-8ab9-6cbf-7fed25f0167c.htm" />
   <HelpKINode Title="EnigmaBinaryTest.EnigmaBinaryIntegrationTests class" Url="html/efbcf01e-d73b-e781-17e9-dbfba91228c6.htm" />
-  <HelpKINode Title="EnigmaBinaryTest.EnigmaBinaryParametersUnitTests class" Url="html/65440c1a-0e97-551f-d0b5-0d4639e89028.htm" />
   <HelpKINode Title="EnigmaBinaryTest.EnigmaBinaryUnitTest class" Url="html/41f40820-5bd2-982c-0253-7115c8512654.htm" />
   <HelpKINode Title="EnigmaBinaryTest.EnigmaManagerIntegrationTests class" Url="html/66c3119e-ad1c-c779-ca5d-5c69f9ab9c30.htm" />
   <HelpKINode Title="EnigmaBinaryTest.EnigmaManagerUnitTests class" Url="html/2f8466a2-8c19-a3f8-3997-fa0c903db3e0.htm" />
-  <HelpKINode Title="EnigmaBinaryTest.EntryRotorTests class" Url="html/d04ad440-4a59-be3f-bef6-a83916506609.htm" />
+  <HelpKINode Title="EnigmaBinaryTest.EntryRotorUnitTests class" Url="html/0bea45d5-176b-aa91-dfcd-a0dce76a9602.htm" />
   <HelpKINode Title="EnigmaBinaryTest.FakeCipherParameter class" Url="html/cedefc26-d3f6-a636-5f20-e5213b787784.htm" />
   <HelpKINode Title="EnigmaBinaryTest.FakeEntryRotor class" Url="html/47f425bc-2f5c-e8e3-da57-0c2e6064b0ea.htm" />
   <HelpKINode Title="EnigmaBinaryTest.FakePlugboard class" Url="html/4bb50362-3cad-4ee7-6633-3402acd5c9aa.htm" />
@@ -518,12 +509,12 @@
   <HelpKINode Title="EnigmaBinaryTest.FakeRotorController class" Url="html/8a00d0b1-ca53-2cbb-0953-f5e103865848.htm" />
   <HelpKINode Title="EnigmaBinaryTest.FakeTurn class" Url="html/ee5c66e5-41a6-7b09-808b-724e22b4e586.htm" />
   <HelpKINode Title="EnigmaBinaryTest.PlugboardTests class" Url="html/2e8537f1-06fe-98ee-f5fd-94eccf529c95.htm" />
-  <HelpKINode Title="EnigmaBinaryTest.RandomGeneratorTests class" Url="html/a2b575b9-b7f7-3ded-f15e-345a146155c7.htm" />
-  <HelpKINode Title="EnigmaBinaryTest.ReflectorTests class" Url="html/bc6b0eb9-f94f-aa54-710a-74fdbd625118.htm" />
+  <HelpKINode Title="EnigmaBinaryTest.RandomGeneratorUnitTests class" Url="html/3a2d63e8-a63a-e01a-b8f7-b7c18b226553.htm" />
+  <HelpKINode Title="EnigmaBinaryTest.ReflectorUnitTests class" Url="html/7168fdd6-a007-5dec-36f6-853ffa9c41f9.htm" />
   <HelpKINode Title="EnigmaBinaryTest.RotorControllerIntegrationTests class" Url="html/af210a1b-d2ee-b54f-0f5b-4f047e6b2880.htm" />
   <HelpKINode Title="EnigmaBinaryTest.RotorControllerUnitTests class" Url="html/c1e49b6b-5604-37fc-99c0-7ac33352f591.htm" />
-  <HelpKINode Title="EnigmaBinaryTest.RotorTestSet class" Url="html/ec29cf91-89be-4af3-e78b-832cc64b3a93.htm" />
-  <HelpKINode Title="EnigmaBinaryTest.TurnTests class" Url="html/72ac4885-f931-0891-69b4-69effbc1bbbc.htm" />
+  <HelpKINode Title="EnigmaBinaryTest.RotorUnitTest class" Url="html/1c1ec83b-b8f5-0c6c-6fa9-c4e937261431.htm" />
+  <HelpKINode Title="EnigmaBinaryTest.TurnUnitTests class" Url="html/1ce85381-05d4-bc45-9b53-1693a3199875.htm" />
   <HelpKINode Title="EnigmaBinaryUnitTest class">
     <HelpKINode Title="EnigmaBinaryUnitTest Class" Url="html/41f40820-5bd2-982c-0253-7115c8512654.htm" />
     <HelpKINode Title="about EnigmaBinaryUnitTest class" Url="html/41f40820-5bd2-982c-0253-7115c8512654.htm" />
@@ -658,36 +649,36 @@
   <HelpKINode Title="EntryRotorParameters property" Url="html/40cf9d64-3fbb-5e33-031d-586ecbfd6793.htm" />
   <HelpKINode Title="EntryRotorParameters.EntryRotorParameters constructor" Url="html/554444bd-b60c-a013-48df-9a8194ee3da6.htm" />
   <HelpKINode Title="EntryRotorParameters.SubstitutionSet property" Url="html/0d893d3a-fc89-1ec0-6e33-1129d9bfa53f.htm" />
-  <HelpKINode Title="EntryRotorRNG method" Url="html/f41a07b7-8b95-23dd-a1e6-52795e6b82f2.htm" />
-  <HelpKINode Title="EntryRotorTests class">
-    <HelpKINode Title="EntryRotorTests Class" Url="html/d04ad440-4a59-be3f-bef6-a83916506609.htm" />
-    <HelpKINode Title="about EntryRotorTests class" Url="html/d04ad440-4a59-be3f-bef6-a83916506609.htm" />
-    <HelpKINode Title="constructor" Url="html/afe24387-3b1b-6573-a363-cacd9133ee33.htm" />
-    <HelpKINode Title="constructor" Url="html/6b400faf-5ea1-1896-c9c4-d85af270553f.htm" />
-    <HelpKINode Title="methods" Url="html/6ffb61f6-a727-b5ef-595c-9ab902fd46d1.htm" />
+  <HelpKINode Title="EntryRotorRNG method" Url="html/80127360-8f8d-afe7-2f63-3b3b0b3c804a.htm" />
+  <HelpKINode Title="EntryRotorUnitTests class">
+    <HelpKINode Title="EntryRotorUnitTests Class" Url="html/0bea45d5-176b-aa91-dfcd-a0dce76a9602.htm" />
+    <HelpKINode Title="about EntryRotorUnitTests class" Url="html/0bea45d5-176b-aa91-dfcd-a0dce76a9602.htm" />
+    <HelpKINode Title="constructor" Url="html/0ca78c53-2173-43a9-424e-bad4606311be.htm" />
+    <HelpKINode Title="constructor" Url="html/00d2d109-d595-512d-7431-d12036f2fc63.htm" />
+    <HelpKINode Title="methods" Url="html/1816a29f-44ac-ca0c-d185-6a798a1ed253.htm" />
   </HelpKINode>
-  <HelpKINode Title="EntryRotorTests.Change_SubstitutionSet_Exception method" Url="html/09107223-593a-866c-ba19-c98c9a41f4f4.htm" />
-  <HelpKINode Title="EntryRotorTests.Clear method" Url="html/432cb867-88e3-c8ab-5ab5-d535c653658b.htm" />
-  <HelpKINode Title="EntryRotorTests.Clear_Then_Add_SubstitutionSet method" Url="html/e4dbcb2d-9328-615f-2028-6d174d3f4433.htm" />
-  <HelpKINode Title="EntryRotorTests.Duplicat_Side_A_Exception method" Url="html/bac5d82a-be30-ad68-78f3-096c22e26d81.htm" />
-  <HelpKINode Title="EntryRotorTests.Duplicat_Side_B_Exception method" Url="html/86af5a16-de05-e9c7-97e7-aa6231044069.htm" />
-  <HelpKINode Title="EntryRotorTests.EntryRotorTests constructor">
-    <HelpKINode Title="EntryRotorTests Constructor " Url="html/afe24387-3b1b-6573-a363-cacd9133ee33.htm" />
-    <HelpKINode Title="EntryRotorTests Constructor " Url="html/6b400faf-5ea1-1896-c9c4-d85af270553f.htm" />
+  <HelpKINode Title="EntryRotorUnitTests.Change_SubstitutionSet_Exception method" Url="html/6b70b554-cdf7-9ca9-c655-17facf688705.htm" />
+  <HelpKINode Title="EntryRotorUnitTests.Clear method" Url="html/73e5401b-74ae-1117-385b-24cf96dbb382.htm" />
+  <HelpKINode Title="EntryRotorUnitTests.Clear_Then_Add_SubstitutionSet method" Url="html/154f2ede-61ac-745d-1e0a-08b0ca1398cd.htm" />
+  <HelpKINode Title="EntryRotorUnitTests.Duplicat_Side_A_Exception method" Url="html/2bfc692f-8c99-b17b-9872-f506167e1a85.htm" />
+  <HelpKINode Title="EntryRotorUnitTests.Duplicat_Side_B_Exception method" Url="html/9be1497a-a8cb-c874-9649-75282c1ff2e2.htm" />
+  <HelpKINode Title="EntryRotorUnitTests.EntryRotorUnitTests constructor">
+    <HelpKINode Title="EntryRotorUnitTests Constructor " Url="html/0ca78c53-2173-43a9-424e-bad4606311be.htm" />
+    <HelpKINode Title="EntryRotorUnitTests Constructor " Url="html/00d2d109-d595-512d-7431-d12036f2fc63.htm" />
   </HelpKINode>
-  <HelpKINode Title="EntryRotorTests.Next_Rotor_Default_Value method" Url="html/0704aa80-b3f1-884a-5a83-48f09476354c.htm" />
-  <HelpKINode Title="EntryRotorTests.PopulatedSubitutionSet method" Url="html/17e8adb8-f66e-6eae-d901-47d4b5860846.htm" />
-  <HelpKINode Title="EntryRotorTests.ProcessByte_Encoding_Decoding method" Url="html/d549ddc5-954d-676a-cb01-2d0ecf6719f3.htm" />
-  <HelpKINode Title="EntryRotorTests.ProcessByte_NextTurn_Call method" Url="html/9c14541c-b82e-a47a-9cd6-cfddd4db2881.htm" />
-  <HelpKINode Title="EntryRotorTests.Reset_Change_Settings method" Url="html/6506c619-8189-bae5-a230-bdcee02fe38e.htm" />
-  <HelpKINode Title="EntryRotorTests.SubstitutionSet_Constructor_Mapping method" Url="html/d23d3c6d-ecfb-cdb6-d237-4b517f438e36.htm" />
-  <HelpKINode Title="EntryRotorTests.SubstitutionSet_Default_Value method" Url="html/95252dc4-c750-7521-5ba1-cb959360254e.htm" />
-  <HelpKINode Title="EntryRotorTests.SubstitutionSet_Property_Mapping method" Url="html/4af8b12c-99bd-ca45-2558-3b3743cad653.htm" />
-  <HelpKINode Title="EntryRotorTests.SubstitutionSet_Size_Exception method" Url="html/a71ad6f9-ebfc-d7c8-a10e-0182108f9eb7.htm" />
+  <HelpKINode Title="EntryRotorUnitTests.Next_Rotor_Default_Value method" Url="html/6d6572cf-9f83-7232-f933-8d068992b616.htm" />
+  <HelpKINode Title="EntryRotorUnitTests.PopulatedSubitutionSet method" Url="html/ebb1da67-9e71-e6d3-1a11-4370e97dfa61.htm" />
+  <HelpKINode Title="EntryRotorUnitTests.ProcessByte_Encoding_Decoding method" Url="html/dfb42d5a-ced4-f673-f13a-17f0a2f4a85e.htm" />
+  <HelpKINode Title="EntryRotorUnitTests.ProcessByte_NextTurn_Call method" Url="html/8a48b0f5-c668-544a-fd04-71ae697641c9.htm" />
+  <HelpKINode Title="EntryRotorUnitTests.Reset_Change_Settings method" Url="html/74725a86-3fa8-5279-6fad-bd34e34fce22.htm" />
+  <HelpKINode Title="EntryRotorUnitTests.SubstitutionSet_Constructor_Mapping method" Url="html/f37fbcb4-b61d-c733-5721-eeabcb704808.htm" />
+  <HelpKINode Title="EntryRotorUnitTests.SubstitutionSet_Default_Value method" Url="html/33550b25-5f02-3873-90f1-2096587b7d24.htm" />
+  <HelpKINode Title="EntryRotorUnitTests.SubstitutionSet_Property_Mapping method" Url="html/52a9a3fc-73c5-7cb9-d1f6-d4b1ba9c145b.htm" />
+  <HelpKINode Title="EntryRotorUnitTests.SubstitutionSet_Size_Exception method" Url="html/50ae1605-804f-934c-cdfd-84d9d890b0f9.htm" />
   <HelpKINode Title="ENTRYROTOR_INSTANCE enumeration member" Url="html/001765a5-59dd-654d-1bef-254eb670118d.htm" />
   <HelpKINode Title="ENTRYROTOR_PARAMETERS enumeration member" Url="html/001765a5-59dd-654d-1bef-254eb670118d.htm" />
   <HelpKINode Title="EntryRotor_SubstitutionSet method" Url="html/fae3e0c5-c1fa-8fc4-9f0f-c3751f3a55b8.htm" />
-  <HelpKINode Title="ErrorMessage property" Url="html/f97b4941-bea9-38f9-39f2-e36c0c80a31e.htm" />
+  <HelpKINode Title="ErrorMessage property" Url="html/43ef2f19-26ee-36af-5bd4-6d43a29b85d4.htm" />
   <HelpKINode Title="Factorial method" Url="html/0007c75a-3d4e-2083-dc68-069adc68a60c.htm" />
   <HelpKINode Title="FakeCipherParameter class">
     <HelpKINode Title="FakeCipherParameter Class" Url="html/cedefc26-d3f6-a636-5f20-e5213b787784.htm" />
@@ -844,9 +835,9 @@
     <HelpKINode Title="FakeTurn.FullyCycled Property " Url="html/92d7a552-b2a5-a8db-1b6c-7ffbcc42c370.htm" />
     <HelpKINode Title="ITurn.FullyCycled Property " Url="html/ac204770-c124-d470-226c-bbc662eccaf5.htm" />
   </HelpKINode>
-  <HelpKINode Title="FullyCycled_Default method" Url="html/645df59e-4986-bc71-1983-6341812fd550.htm" />
-  <HelpKINode Title="FullyCycled_False method" Url="html/468b0bb4-fcb4-2fe1-5b49-57e4d6e6c805.htm" />
-  <HelpKINode Title="FullyCycled_True method" Url="html/c4f2d913-f9a3-4fd2-5c01-95b1dadd30c8.htm" />
+  <HelpKINode Title="FullyCycled_Default method" Url="html/1d27e727-2cad-0e26-adb0-a65e2366fa4f.htm" />
+  <HelpKINode Title="FullyCycled_False method" Url="html/b1590364-e3cb-44e4-5e5e-e63750d6f1f6.htm" />
+  <HelpKINode Title="FullyCycled_True method" Url="html/e28e9900-cc7f-ca77-ed40-8ef0b1157616.htm" />
   <HelpKINode Title="FullyPopulated method" Url="html/56940dab-c523-eb3d-9fb6-9a3463358d8c.htm" />
   <HelpKINode Title="GenerateEntryRotor method" Url="html/2533456c-597d-5374-4595-e3a9aa6a052b.htm" />
   <HelpKINode Title="GeneratePlugboard method" Url="html/c4504c09-bbff-042e-244e-8ce86b0a3f38.htm" />
@@ -908,9 +899,9 @@
     <HelpKINode Title="IRotorParameters.Incrementation Property " Url="html/64be4c05-4e1c-73e0-633b-aa7470a300c3.htm" />
     <HelpKINode Title="RotorParameters.Incrementation Property " Url="html/e18e721b-8cf9-6116-2fee-f31b289d1aea.htm" />
   </HelpKINode>
-  <HelpKINode Title="Incrementation_Default_Value method" Url="html/28a43d53-4ff0-1238-807c-2950ad0caaa9.htm" />
-  <HelpKINode Title="Incrementation_Past_Max_Value method" Url="html/8ba05fca-21d9-dc71-485a-7cbd7a34c073.htm" />
-  <HelpKINode Title="Incrementation_Past_Min_Value method" Url="html/7aad535b-8bae-ea85-995b-9ce52aa6a54b.htm" />
+  <HelpKINode Title="Incrementation_Default_Value method" Url="html/e987e948-cd81-6018-0c31-28849bff5b6a.htm" />
+  <HelpKINode Title="Incrementation_Past_Max_Value method" Url="html/e064d34a-c1ec-0dea-3b2f-74dd3521a1d3.htm" />
+  <HelpKINode Title="Incrementation_Past_Min_Value method" Url="html/2320b212-7ceb-8e42-b09f-2150b60677fc.htm" />
   <HelpKINode Title="INCREMENTATION_VALUE field" Url="html/3031f0d7-5559-b56f-3000-daaff39026c9.htm" />
   <HelpKINode Title="Init method">
     <HelpKINode Title="CipherControllerIntegrationTest.Init Method " Url="html/6fb37a55-6528-2538-52d0-e7967f05a509.htm" />
@@ -968,8 +959,8 @@
   <HelpKINode Title="InitReflector method" Url="html/92f003ae-754e-e3de-f9ab-d3a2f373b1a5.htm" />
   <HelpKINode Title="InitRotors method" Url="html/e4c7f6ef-d88a-0926-862f-bfec8eba6736.htm" />
   <HelpKINode Title="InitTurn method" Url="html/c150dc33-2260-0be9-744b-3b5140a04af2.htm" />
-  <HelpKINode Title="Init_Rotor_With_EndPoints method" Url="html/b0032ea4-3522-95b6-a4b9-e3238095ccf8.htm" />
-  <HelpKINode Title="Init_Rotor_With_No_EndPoints method" Url="html/53202495-6f8e-1d95-93c4-da5c59f4c967.htm" />
+  <HelpKINode Title="Init_Rotor_With_EndPoints method" Url="html/69e6e065-05a8-7215-5e1a-b2fe9d2772e9.htm" />
+  <HelpKINode Title="Init_Rotor_With_No_EndPoints method" Url="html/eac83585-c92e-bf2b-ada5-722db1abb0c1.htm" />
   <HelpKINode Title="Init_Without_Params method" Url="html/034d09ef-15ce-ebb8-4786-fb61f9201701.htm" />
   <HelpKINode Title="Init_Without_Params_Init_Call method" Url="html/f5b9ecc4-b800-7150-3c16-843ef63ab098.htm" />
   <HelpKINode Title="Init_With_Params method" Url="html/d0599dff-6d91-3a7e-9581-9973e0f5bcba.htm" />
@@ -1085,7 +1076,7 @@
     <HelpKINode Title="AbstractRotorController.m_Turns Field" Url="html/a3b6ca31-2152-6a68-5ec1-b80dbe74b30c.htm" />
     <HelpKINode Title="FakeRotorController.m_Turns Field" Url="html/773ea05d-ad28-ea1a-1cd3-dba48e625da2.htm" />
   </HelpKINode>
-  <HelpKINode Title="NextRotor method" Url="html/38269448-b514-a6ab-9c7a-6f908c38fe04.htm" />
+  <HelpKINode Title="NextRotor method" Url="html/78c1d139-f8cd-bddb-c728-d22c0e9442e5.htm" />
   <HelpKINode Title="NextRotor property">
     <HelpKINode Title="AbstractRotor.NextRotor Property " Url="html/2be27258-80f2-71d1-2c0f-cd9f113a108e.htm" />
     <HelpKINode Title="FakeEntryRotor.NextRotor Property " Url="html/2ec45578-e323-a7f5-7f3d-fa30bdba7ce9.htm" />
@@ -1100,13 +1091,13 @@
     <HelpKINode Title="ITurn.NextTurn Property " Url="html/bb7a7b68-032d-3ad0-f1e5-0fdd8ce829f4.htm" />
   </HelpKINode>
   <HelpKINode Title="NextTurnNull property" Url="html/3aec3ac0-a0a0-51a4-7724-1f6e8f8e604d.htm" />
-  <HelpKINode Title="NextTurn_Call method" Url="html/5565dd13-0d6b-9a43-2146-053ae331434e.htm" />
-  <HelpKINode Title="NextTurn_Default method" Url="html/261f1771-6f55-c2d8-a1cf-6d79b5884d34.htm" />
+  <HelpKINode Title="NextTurn_Call method" Url="html/04952af8-1bf9-bd21-b20d-454ef581d63e.htm" />
+  <HelpKINode Title="NextTurn_Default method" Url="html/be8a5a1a-c571-0cb3-f437-8c3dad5ec1ff.htm" />
   <HelpKINode Title="NEXTTURN_INUSE field" Url="html/dd621046-fae4-7db1-a764-8823241863f1.htm" />
   <HelpKINode Title="Next_Rotor_Default_Value method">
-    <HelpKINode Title="EntryRotorTests.Next_Rotor_Default_Value Method " Url="html/0704aa80-b3f1-884a-5a83-48f09476354c.htm" />
-    <HelpKINode Title="ReflectorTests.Next_Rotor_Default_Value Method " Url="html/98d07791-bbf5-25b7-f3ec-b2aa98718342.htm" />
-    <HelpKINode Title="RotorTestSet.Next_Rotor_Default_Value Method " Url="html/094b8f16-bc23-fa75-2fd8-2444a29e395b.htm" />
+    <HelpKINode Title="EntryRotorUnitTests.Next_Rotor_Default_Value Method " Url="html/6d6572cf-9f83-7232-f933-8d068992b616.htm" />
+    <HelpKINode Title="ReflectorUnitTests.Next_Rotor_Default_Value Method " Url="html/ab149caf-3e8b-1758-5321-4d57e7f5083a.htm" />
+    <HelpKINode Title="RotorUnitTest.Next_Rotor_Default_Value Method " Url="html/1ab4e867-15dc-f517-7c7e-29d02a03f44b.htm" />
   </HelpKINode>
   <HelpKINode Title="NONE enumeration member" Url="html/001765a5-59dd-654d-1bef-254eb670118d.htm" />
   <HelpKINode Title="NoRotor property" Url="html/3bc8e881-2013-bfa0-b57b-54831493f0bd.htm" />
@@ -1142,13 +1133,13 @@
   <HelpKINode Title="PlugboardParameters property" Url="html/a14901cd-7ab3-f13a-ab15-1e412d71e554.htm" />
   <HelpKINode Title="PlugboardParameters.PlugboardParameters constructor" Url="html/866bbcf4-c863-2b31-ed05-8bff75adddd9.htm" />
   <HelpKINode Title="PlugboardParameters.TranspositionSet property" Url="html/83c09ffe-c8a0-c7f4-2a5a-50c23c2ffc0f.htm" />
-  <HelpKINode Title="PlugboardRNG method" Url="html/6393ee46-9ee9-43b5-7a60-f8d0f04ca02f.htm" />
+  <HelpKINode Title="PlugboardRNG method" Url="html/a4e370d0-33a3-33af-9b1d-843f00ed2b5d.htm" />
   <HelpKINode Title="PlugboardStrength method" Url="html/fe41a91f-9831-7b05-ba90-c4b2a8b54224.htm" />
   <HelpKINode Title="PlugboardTests class">
     <HelpKINode Title="PlugboardTests Class" Url="html/2e8537f1-06fe-98ee-f5fd-94eccf529c95.htm" />
     <HelpKINode Title="about PlugboardTests class" Url="html/2e8537f1-06fe-98ee-f5fd-94eccf529c95.htm" />
-    <HelpKINode Title="constructor" Url="html/119cdd9f-5ffe-720b-94b9-f99679d2298a.htm" />
     <HelpKINode Title="constructor" Url="html/a21fa798-8090-a8bd-e7bb-40d9cb20619e.htm" />
+    <HelpKINode Title="constructor" Url="html/119cdd9f-5ffe-720b-94b9-f99679d2298a.htm" />
     <HelpKINode Title="methods" Url="html/978a1733-a2c5-824d-a2fd-eeb4cbf2227e.htm" />
   </HelpKINode>
   <HelpKINode Title="PlugboardTests.Change_SubstitutionSet_After_Clear method" Url="html/67959a37-b9aa-7c86-0d3d-b6ca48b87af7.htm" />
@@ -1160,8 +1151,8 @@
   <HelpKINode Title="PlugboardTests.Encod_Decode_Medium_Test method" Url="html/d4d5d193-a77c-1039-594b-3524d69d7ce6.htm" />
   <HelpKINode Title="PlugboardTests.Missing_TranspositionSet method" Url="html/29c34f7e-77d2-6b3d-86ad-167e28ca397d.htm" />
   <HelpKINode Title="PlugboardTests.PlugboardTests constructor">
-    <HelpKINode Title="PlugboardTests Constructor " Url="html/a21fa798-8090-a8bd-e7bb-40d9cb20619e.htm" />
     <HelpKINode Title="PlugboardTests Constructor " Url="html/119cdd9f-5ffe-720b-94b9-f99679d2298a.htm" />
+    <HelpKINode Title="PlugboardTests Constructor " Url="html/a21fa798-8090-a8bd-e7bb-40d9cb20619e.htm" />
   </HelpKINode>
   <HelpKINode Title="PlugboardTests.Plugboard_TranspositionSet_Default method" Url="html/4f16e33b-5336-50cb-9d4b-c3dfe91e8170.htm" />
   <HelpKINode Title="PlugboardTests.Plugboard_With_EndPoints method" Url="html/e0b91f8f-1da2-b395-5f27-303de30fdfd3.htm" />
@@ -1179,15 +1170,15 @@
   <HelpKINode Title="Plugboard_With_EndPoints method" Url="html/e0b91f8f-1da2-b395-5f27-303de30fdfd3.htm" />
   <HelpKINode Title="Plugboard_With_Out_EndPoints method" Url="html/eb3801ce-4fbd-bcef-bb63-f11220abf896.htm" />
   <HelpKINode Title="PopulatedSubitutionSet method">
-    <HelpKINode Title="EntryRotorTests.PopulatedSubitutionSet Method " Url="html/17e8adb8-f66e-6eae-d901-47d4b5860846.htm" />
-    <HelpKINode Title="ReflectorTests.PopulatedSubitutionSet Method " Url="html/66f169ff-561d-885c-ecfc-23ac68143faf.htm" />
+    <HelpKINode Title="EntryRotorUnitTests.PopulatedSubitutionSet Method " Url="html/ebb1da67-9e71-e6d3-1a11-4370e97dfa61.htm" />
+    <HelpKINode Title="ReflectorUnitTests.PopulatedSubitutionSet Method " Url="html/54e15deb-3d07-9039-db62-339222b4b86c.htm" />
   </HelpKINode>
   <HelpKINode Title="PopulateEntryRotor method" Url="html/32a2ec77-6d7d-d148-764c-340e70339517.htm" />
   <HelpKINode Title="PopulatePlugboard method" Url="html/ee219861-8cf5-d699-0b8e-72fa871bcb67.htm" />
   <HelpKINode Title="PopulateRotor method" Url="html/83d45409-204d-df85-e84d-d17ec08ce489.htm" />
   <HelpKINode Title="PopulateSubitutionSet method">
-    <HelpKINode Title="RotorTestSet.PopulateSubitutionSet Method " Url="html/7549d1aa-d2ef-6b4b-3917-6218387138af.htm" />
-    <HelpKINode Title="TurnTests.PopulateSubitutionSet Method " Url="html/6478fcf4-7173-5bfd-b1f3-e203554a3a83.htm" />
+    <HelpKINode Title="RotorUnitTest.PopulateSubitutionSet Method " Url="html/d8a69612-b1be-97c8-2a12-1cefd789772c.htm" />
+    <HelpKINode Title="TurnUnitTests.PopulateSubitutionSet Method " Url="html/2a1b3c58-8e72-0a03-6780-a8b95ccbb949.htm" />
   </HelpKINode>
   <HelpKINode Title="PopulateTranslatuon method">
     <HelpKINode Title="FakeEntryRotor.PopulateTranslatuon Method " Url="html/0d151b82-058b-95e7-4ddc-8ce53e6dbca6.htm" />
@@ -1200,15 +1191,15 @@
     <HelpKINode Title="AbstractPlugboard.PopulateTransulationPoints Method " Url="html/07fecef6-0cc2-4dd2-60bf-5e05019ca0a1.htm" />
     <HelpKINode Title="AbstractRotor.PopulateTransulationPoints Method " Url="html/7dd52ec4-d159-4a17-49ac-5c18e11fa5b6.htm" />
   </HelpKINode>
-  <HelpKINode Title="Posistion_Incrementation_By_One_BOTH method" Url="html/caa38851-c631-460a-019e-88c6c1feb5e0.htm" />
-  <HelpKINode Title="Posistion_Incrementation_By_One_CCW method" Url="html/30ce315d-492b-53e5-94e1-8078512091b4.htm" />
-  <HelpKINode Title="Posistion_Incrementation_By_One_CW method" Url="html/2204dc8a-9422-8e21-0bdd-4a4a19cde3f0.htm" />
-  <HelpKINode Title="Posistion_Incrementation_By_Three_BOTH method" Url="html/e3ec200e-d312-a5b9-ebf6-48d0461a1dc9.htm" />
-  <HelpKINode Title="Posistion_Incrementation_By_Three_CCW method" Url="html/6246ad0d-c27b-81d7-3887-6853d35a637b.htm" />
-  <HelpKINode Title="Posistion_Incrementation_By_Three_CW method" Url="html/ca9a2e23-016f-0ab2-6018-d87d36cf4963.htm" />
-  <HelpKINode Title="Posistion_Incrementation_By_Two_BOTH method" Url="html/b6505e4c-5429-de49-c858-21cf5febbf72.htm" />
-  <HelpKINode Title="Posistion_Incrementation_By_Two_CCW method" Url="html/26868d3f-79b5-274f-ccce-5d8ec6d68fc3.htm" />
-  <HelpKINode Title="Posistion_Incrementation_By_Two_CW method" Url="html/c9a6765d-9457-1514-e603-6ab6fb925630.htm" />
+  <HelpKINode Title="Posistion_Incrementation_By_One_BOTH method" Url="html/821ce114-6050-5e72-be4a-9f21eab99496.htm" />
+  <HelpKINode Title="Posistion_Incrementation_By_One_CCW method" Url="html/90ee81b0-239f-b17a-acbc-59e2d2cad483.htm" />
+  <HelpKINode Title="Posistion_Incrementation_By_One_CW method" Url="html/99455302-3c79-cffa-98ae-44024c14192b.htm" />
+  <HelpKINode Title="Posistion_Incrementation_By_Three_BOTH method" Url="html/1f525012-349c-68b2-4bf2-630aab090c52.htm" />
+  <HelpKINode Title="Posistion_Incrementation_By_Three_CCW method" Url="html/338bd178-92b5-8664-8c8f-cc05f6f284b3.htm" />
+  <HelpKINode Title="Posistion_Incrementation_By_Three_CW method" Url="html/fa4dbafa-0320-e1bb-269b-ab0c8c66cd09.htm" />
+  <HelpKINode Title="Posistion_Incrementation_By_Two_BOTH method" Url="html/9b52fc83-ae26-d2dd-6f85-0460d47484b9.htm" />
+  <HelpKINode Title="Posistion_Incrementation_By_Two_CCW method" Url="html/c320862b-4bde-5312-f34a-f9807e4fb88d.htm" />
+  <HelpKINode Title="Posistion_Incrementation_By_Two_CW method" Url="html/149669a0-13e4-37a3-16dd-86db55d243f7.htm" />
   <HelpKINode Title="Position property">
     <HelpKINode Title="AbstractRotor.Position Property " Url="html/f1936b92-b0ab-476e-1148-510853e97309.htm" />
     <HelpKINode Title="FakeEntryRotor.Position Property " Url="html/102ef1fe-6133-65d7-b320-58017d175152.htm" />
@@ -1216,7 +1207,7 @@
     <HelpKINode Title="FakeRotor.Position Property " Url="html/87fdb545-3b30-d69f-857b-9a8573c66560.htm" />
     <HelpKINode Title="IRotor.Position Property " Url="html/fcfa9e96-cd8b-21fa-226c-905c30ba2189.htm" />
   </HelpKINode>
-  <HelpKINode Title="Position_Default_Value method" Url="html/ec4f0933-e9b5-abc8-deaa-2419056fe929.htm" />
+  <HelpKINode Title="Position_Default_Value method" Url="html/1d6c38d7-133f-3139-784f-8bfa2512a79a.htm" />
   <HelpKINode Title="Power method" Url="html/eb79e717-693e-79a1-c178-5413075cbf7a.htm" />
   <HelpKINode Title="ProcessBlock_Input_Buffer_Error method" Url="html/217cf942-b041-8f78-5807-d8a50254b310.htm" />
   <HelpKINode Title="ProcessBlock_Output_Buffer_Error method" Url="html/4c01e058-a7fa-5521-730b-4cf070855e78.htm" />
@@ -1257,19 +1248,19 @@
   <HelpKINode Title="ProcessBytes_Fully_Configured_Internal_Reset method" Url="html/ae386742-3b36-9d35-5b89-62704e80a225.htm" />
   <HelpKINode Title="ProcessByte_Encode_Decode method" Url="html/9e24a696-94de-02ea-f945-48dcb10d5f72.htm" />
   <HelpKINode Title="ProcessByte_Encoding_Decoding method">
-    <HelpKINode Title="EntryRotorTests.ProcessByte_Encoding_Decoding Method " Url="html/d549ddc5-954d-676a-cb01-2d0ecf6719f3.htm" />
-    <HelpKINode Title="ReflectorTests.ProcessByte_Encoding_Decoding Method " Url="html/5e19c33b-39bb-d670-e75b-0efaaf472f65.htm" />
+    <HelpKINode Title="EntryRotorUnitTests.ProcessByte_Encoding_Decoding Method " Url="html/dfb42d5a-ced4-f673-f13a-17f0a2f4a85e.htm" />
+    <HelpKINode Title="ReflectorUnitTests.ProcessByte_Encoding_Decoding Method " Url="html/b02b5ce9-d16a-a28e-6a96-8da3440f6ae7.htm" />
   </HelpKINode>
-  <HelpKINode Title="ProcessByte_Encoding_Decoding_BOTH_Cycled method" Url="html/ab317a23-5bf4-9ba9-0463-46f9348ebaea.htm" />
-  <HelpKINode Title="ProcessByte_Encoding_Decoding_CCW_Cycled method" Url="html/ab57c87e-f4cf-8eb5-8250-ba10fa15c3ee.htm" />
-  <HelpKINode Title="ProcessByte_Encoding_Decoding_CW_Cycled method" Url="html/f9d1a469-c8d3-43da-0e96-ead2dbeda6c2.htm" />
+  <HelpKINode Title="ProcessByte_Encoding_Decoding_BOTH_Cycled method" Url="html/0135edb6-1316-f114-7630-ee0d38d9fab3.htm" />
+  <HelpKINode Title="ProcessByte_Encoding_Decoding_CCW_Cycled method" Url="html/5ec14819-925f-f735-d87e-5d055b82c69d.htm" />
+  <HelpKINode Title="ProcessByte_Encoding_Decoding_CW_Cycled method" Url="html/5a914c1c-8805-ea6b-ac9c-e2dbed4eb862.htm" />
   <HelpKINode Title="ProcessByte_Init_Without_Init_Call method" Url="html/0abffc42-8567-e118-416b-cd41a74749eb.htm" />
   <HelpKINode Title="ProcessByte_Missing_CipherController method" Url="html/ee9b9c4c-d858-c53b-8c41-d9abb123d350.htm" />
   <HelpKINode Title="ProcessByte_NextTurn_Call method">
-    <HelpKINode Title="EntryRotorTests.ProcessByte_NextTurn_Call Method " Url="html/9c14541c-b82e-a47a-9cd6-cfddd4db2881.htm" />
-    <HelpKINode Title="ReflectorTests.ProcessByte_NextTurn_Call Method " Url="html/72bc32ef-a943-61fb-b81b-82dadb669255.htm" />
+    <HelpKINode Title="EntryRotorUnitTests.ProcessByte_NextTurn_Call Method " Url="html/8a48b0f5-c668-544a-fd04-71ae697641c9.htm" />
+    <HelpKINode Title="ReflectorUnitTests.ProcessByte_NextTurn_Call Method " Url="html/6396b32d-4681-f228-4130-2ec005db6031.htm" />
   </HelpKINode>
-  <HelpKINode Title="ProcessByte_SubitutionSet_Null method" Url="html/3af9f83e-7913-40a1-ca69-ecd31029ac49.htm" />
+  <HelpKINode Title="ProcessByte_SubitutionSet_Null method" Url="html/0bfe9f90-91c5-72d1-26f1-ec8b5279a3f3.htm" />
   <HelpKINode Title="ProcessedByte method" Url="html/f2e42a21-17be-5494-60dc-12ed617219c0.htm" />
   <HelpKINode Title="ProcessParameters method" Url="html/404344b4-982c-49ec-be0a-63b5f157f9d3.htm" />
   <HelpKINode Title="Program class">
@@ -1305,20 +1296,20 @@
   <HelpKINode Title="RandomEndPointsGenerator.RandomEndPointsGenerator constructor" Url="html/dc94c616-25df-ff63-9958-c1c80c17ed04.htm" />
   <HelpKINode Title="RandomEndPointsGenerator.RemovePairs method" Url="html/5e664a2e-d0c8-26d5-a158-337f2a6a53b5.htm" />
   <HelpKINode Title="RandomEndPointsGenerator.TranspositionLevel enumeration" Url="html/d83f334a-4959-47ee-411f-e5dbe2640a98.htm" />
-  <HelpKINode Title="RandomGeneratorTests class">
-    <HelpKINode Title="RandomGeneratorTests Class" Url="html/a2b575b9-b7f7-3ded-f15e-345a146155c7.htm" />
-    <HelpKINode Title="about RandomGeneratorTests class" Url="html/a2b575b9-b7f7-3ded-f15e-345a146155c7.htm" />
-    <HelpKINode Title="constructor" Url="html/0d7c0723-0ff3-34e5-adda-2796c96fffa7.htm" />
-    <HelpKINode Title="methods" Url="html/dbf47ba0-6383-e189-81c3-2bff776f76ae.htm" />
-    <HelpKINode Title="properties" Url="html/d1f63c20-a701-3c71-944f-c4cec0cd9487.htm" />
+  <HelpKINode Title="RandomGeneratorUnitTests class">
+    <HelpKINode Title="RandomGeneratorUnitTests Class" Url="html/3a2d63e8-a63a-e01a-b8f7-b7c18b226553.htm" />
+    <HelpKINode Title="about RandomGeneratorUnitTests class" Url="html/3a2d63e8-a63a-e01a-b8f7-b7c18b226553.htm" />
+    <HelpKINode Title="constructor" Url="html/9c5ef37c-8d74-7d78-1e25-95e8da6e33a1.htm" />
+    <HelpKINode Title="methods" Url="html/9ef77130-7458-da26-5daf-e5e427b6a307.htm" />
+    <HelpKINode Title="properties" Url="html/21cf41f0-7200-2308-cc9b-d3f57f5344fc.htm" />
   </HelpKINode>
-  <HelpKINode Title="RandomGeneratorTests.CheckForDuplicatEntries method" Url="html/feccaafe-3ee4-6b34-6822-bbc10d766eac.htm" />
-  <HelpKINode Title="RandomGeneratorTests.EntryRotorRNG method" Url="html/f41a07b7-8b95-23dd-a1e6-52795e6b82f2.htm" />
-  <HelpKINode Title="RandomGeneratorTests.ErrorMessage property" Url="html/f97b4941-bea9-38f9-39f2-e36c0c80a31e.htm" />
-  <HelpKINode Title="RandomGeneratorTests.PlugboardRNG method" Url="html/6393ee46-9ee9-43b5-7a60-f8d0f04ca02f.htm" />
-  <HelpKINode Title="RandomGeneratorTests.RandomGeneratorTests constructor" Url="html/0d7c0723-0ff3-34e5-adda-2796c96fffa7.htm" />
-  <HelpKINode Title="RandomGeneratorTests.ReflectorRNG method" Url="html/b58163d6-f24d-1d1c-8d82-12c63b6ac7d7.htm" />
-  <HelpKINode Title="RandomGeneratorTests.RotorRNG method" Url="html/14a44f68-cd17-1043-4218-17203a8652b0.htm" />
+  <HelpKINode Title="RandomGeneratorUnitTests.CheckForDuplicatEntries method" Url="html/c20b7a4e-5743-0e27-035d-a1436727a120.htm" />
+  <HelpKINode Title="RandomGeneratorUnitTests.EntryRotorRNG method" Url="html/80127360-8f8d-afe7-2f63-3b3b0b3c804a.htm" />
+  <HelpKINode Title="RandomGeneratorUnitTests.ErrorMessage property" Url="html/43ef2f19-26ee-36af-5bd4-6d43a29b85d4.htm" />
+  <HelpKINode Title="RandomGeneratorUnitTests.PlugboardRNG method" Url="html/a4e370d0-33a3-33af-9b1d-843f00ed2b5d.htm" />
+  <HelpKINode Title="RandomGeneratorUnitTests.RandomGeneratorUnitTests constructor" Url="html/9c5ef37c-8d74-7d78-1e25-95e8da6e33a1.htm" />
+  <HelpKINode Title="RandomGeneratorUnitTests.ReflectorRNG method" Url="html/3d539278-85ca-8950-e8cb-3b601a863b03.htm" />
+  <HelpKINode Title="RandomGeneratorUnitTests.RotorRNG method" Url="html/1e21b5e9-7892-0a5c-42aa-017a8e842c95.htm" />
   <HelpKINode Title="Reflector class">
     <HelpKINode Title="Reflector Class" Url="html/1df4fdf8-d5ab-f046-d483-640d0857ba4b.htm" />
     <HelpKINode Title="about Reflector class" Url="html/1df4fdf8-d5ab-f046-d483-640d0857ba4b.htm" />
@@ -1351,33 +1342,33 @@
   <HelpKINode Title="ReflectorParameters property" Url="html/485a02b4-a608-82f6-c75e-3b7d011836e9.htm" />
   <HelpKINode Title="ReflectorParameters.ReflectorParameters constructor" Url="html/923c0596-54d2-45ef-f6b9-b945684017f6.htm" />
   <HelpKINode Title="ReflectorParameters.SubstitutionSet property" Url="html/e87d18da-ef36-b3c5-52f9-484e2dad51da.htm" />
-  <HelpKINode Title="ReflectorRNG method" Url="html/b58163d6-f24d-1d1c-8d82-12c63b6ac7d7.htm" />
+  <HelpKINode Title="ReflectorRNG method" Url="html/3d539278-85ca-8950-e8cb-3b601a863b03.htm" />
   <HelpKINode Title="ReflectorStrength method" Url="html/e181a069-28e6-9878-f087-1927c21be573.htm" />
-  <HelpKINode Title="ReflectorTests class">
-    <HelpKINode Title="ReflectorTests Class" Url="html/bc6b0eb9-f94f-aa54-710a-74fdbd625118.htm" />
-    <HelpKINode Title="about ReflectorTests class" Url="html/bc6b0eb9-f94f-aa54-710a-74fdbd625118.htm" />
-    <HelpKINode Title="constructor" Url="html/1881a1f4-c9e3-4581-09cd-ef824f73259e.htm" />
-    <HelpKINode Title="constructor" Url="html/5b50ee08-c65b-9580-cbea-5b5ee2a94055.htm" />
-    <HelpKINode Title="methods" Url="html/9e8c6e52-4561-53c4-64a7-5dc3284f5eaa.htm" />
+  <HelpKINode Title="ReflectorUnitTests class">
+    <HelpKINode Title="ReflectorUnitTests Class" Url="html/7168fdd6-a007-5dec-36f6-853ffa9c41f9.htm" />
+    <HelpKINode Title="about ReflectorUnitTests class" Url="html/7168fdd6-a007-5dec-36f6-853ffa9c41f9.htm" />
+    <HelpKINode Title="constructor" Url="html/48ddfc35-c7a0-72d8-cab9-141af40f7c7d.htm" />
+    <HelpKINode Title="constructor" Url="html/979b5c8a-6852-7a28-d74f-06faa8dfc21a.htm" />
+    <HelpKINode Title="methods" Url="html/052d9369-d19c-40cb-c971-d00f28923657.htm" />
   </HelpKINode>
-  <HelpKINode Title="ReflectorTests.Change_SubstitutionSet_Exception method" Url="html/366ae860-b60c-c11c-f360-45071edfbfa7.htm" />
-  <HelpKINode Title="ReflectorTests.Clear method" Url="html/91e0afec-d4d8-3a62-f6a1-d430d97c2a20.htm" />
-  <HelpKINode Title="ReflectorTests.Clear_Then_Add_SubstitutionSet method" Url="html/03372b01-6a7d-c671-2da3-183727b76d1c.htm" />
-  <HelpKINode Title="ReflectorTests.Duplicat_Side_A_Exception method" Url="html/399a6b67-157a-a869-d0fb-bf15b20dcff7.htm" />
-  <HelpKINode Title="ReflectorTests.Duplicat_Side_B_Exception method" Url="html/0d1b4479-dbd9-623d-5e64-f6c2e27deabd.htm" />
-  <HelpKINode Title="ReflectorTests.Next_Rotor_Default_Value method" Url="html/98d07791-bbf5-25b7-f3ec-b2aa98718342.htm" />
-  <HelpKINode Title="ReflectorTests.PopulatedSubitutionSet method" Url="html/66f169ff-561d-885c-ecfc-23ac68143faf.htm" />
-  <HelpKINode Title="ReflectorTests.ProcessByte_Encoding_Decoding method" Url="html/5e19c33b-39bb-d670-e75b-0efaaf472f65.htm" />
-  <HelpKINode Title="ReflectorTests.ProcessByte_NextTurn_Call method" Url="html/72bc32ef-a943-61fb-b81b-82dadb669255.htm" />
-  <HelpKINode Title="ReflectorTests.ReflectorTests constructor">
-    <HelpKINode Title="ReflectorTests Constructor " Url="html/1881a1f4-c9e3-4581-09cd-ef824f73259e.htm" />
-    <HelpKINode Title="ReflectorTests Constructor " Url="html/5b50ee08-c65b-9580-cbea-5b5ee2a94055.htm" />
+  <HelpKINode Title="ReflectorUnitTests.Change_SubstitutionSet_Exception method" Url="html/e201a4d8-a862-e78d-b61b-06bee2680fad.htm" />
+  <HelpKINode Title="ReflectorUnitTests.Clear method" Url="html/150efd7a-badd-2ecc-78dc-8e99b9158ceb.htm" />
+  <HelpKINode Title="ReflectorUnitTests.Clear_Then_Add_SubstitutionSet method" Url="html/672acd83-51fb-d53b-9db3-62a26460cf5e.htm" />
+  <HelpKINode Title="ReflectorUnitTests.Duplicat_Side_A_Exception method" Url="html/1b6ad92c-7016-bb64-4a59-4c5a2b87a720.htm" />
+  <HelpKINode Title="ReflectorUnitTests.Duplicat_Side_B_Exception method" Url="html/b4c31831-ab33-c365-18b0-395fe6485ff2.htm" />
+  <HelpKINode Title="ReflectorUnitTests.Next_Rotor_Default_Value method" Url="html/ab149caf-3e8b-1758-5321-4d57e7f5083a.htm" />
+  <HelpKINode Title="ReflectorUnitTests.PopulatedSubitutionSet method" Url="html/54e15deb-3d07-9039-db62-339222b4b86c.htm" />
+  <HelpKINode Title="ReflectorUnitTests.ProcessByte_Encoding_Decoding method" Url="html/b02b5ce9-d16a-a28e-6a96-8da3440f6ae7.htm" />
+  <HelpKINode Title="ReflectorUnitTests.ProcessByte_NextTurn_Call method" Url="html/6396b32d-4681-f228-4130-2ec005db6031.htm" />
+  <HelpKINode Title="ReflectorUnitTests.ReflectorUnitTests constructor">
+    <HelpKINode Title="ReflectorUnitTests Constructor " Url="html/48ddfc35-c7a0-72d8-cab9-141af40f7c7d.htm" />
+    <HelpKINode Title="ReflectorUnitTests Constructor " Url="html/979b5c8a-6852-7a28-d74f-06faa8dfc21a.htm" />
   </HelpKINode>
-  <HelpKINode Title="ReflectorTests.Reset_Change_Settings method" Url="html/a337b047-d703-4c83-acb2-b5e06221e701.htm" />
-  <HelpKINode Title="ReflectorTests.SubstitutionSet_Constructor_Mapping method" Url="html/6d765410-b77b-a685-59f3-73a53414d398.htm" />
-  <HelpKINode Title="ReflectorTests.SubstitutionSet_Default_Value method" Url="html/cf06083f-38f2-d394-52ba-e5d715e93f3a.htm" />
-  <HelpKINode Title="ReflectorTests.SubstitutionSet_Property_Mapping method" Url="html/89c8e41d-d83e-edfc-5697-68af9226fe6d.htm" />
-  <HelpKINode Title="ReflectorTests.SubstitutionSet_Size_Exception method" Url="html/f6c3bb08-a511-4586-a722-2a0f6a4dac64.htm" />
+  <HelpKINode Title="ReflectorUnitTests.Reset_Change_Settings method" Url="html/49f6f9be-04e1-d7a3-ba00-17195e3e8b4c.htm" />
+  <HelpKINode Title="ReflectorUnitTests.SubstitutionSet_Constructor_Mapping method" Url="html/03a460b7-1e65-5368-c3ee-5061f245baf1.htm" />
+  <HelpKINode Title="ReflectorUnitTests.SubstitutionSet_Default_Value method" Url="html/65aa0b31-14e1-191a-2d62-302ae16c3af2.htm" />
+  <HelpKINode Title="ReflectorUnitTests.SubstitutionSet_Property_Mapping method" Url="html/a7ae0609-0c16-530a-9125-d2ea6e1ee4d8.htm" />
+  <HelpKINode Title="ReflectorUnitTests.SubstitutionSet_Size_Exception method" Url="html/51af9185-a1fa-988c-d1d9-313c77c30afd.htm" />
   <HelpKINode Title="REFLECTOR_INSTANCE enumeration member" Url="html/001765a5-59dd-654d-1bef-254eb670118d.htm" />
   <HelpKINode Title="REFLECTOR_PARAMETERS enumeration member" Url="html/001765a5-59dd-654d-1bef-254eb670118d.htm" />
   <HelpKINode Title="Reflector_SubstitutionSet method" Url="html/653e49a3-16aa-1db2-ea85-c8c496bdde2a.htm" />
@@ -1413,12 +1404,12 @@
     <HelpKINode Title="RotorController.Reset Method " Url="html/11ff761b-aa33-e78a-a72a-1f94fff3e08a.htm" />
     <HelpKINode Title="RotorControllerIntegrationTests.Reset Method " Url="html/5d374bdb-415a-fe65-643c-c0973a2f94da.htm" />
     <HelpKINode Title="RotorControllerUnitTests.Reset Method " Url="html/30e07622-54cd-1a0b-ad84-eb8c7bfe6363.htm" />
-    <HelpKINode Title="RotorTestSet.Reset Method " Url="html/a3f722f3-ce31-90c8-b735-fc840f048e77.htm" />
+    <HelpKINode Title="RotorUnitTest.Reset Method " Url="html/35c4814a-e789-552c-b962-a9ad8d9e765d.htm" />
   </HelpKINode>
-  <HelpKINode Title="Reset_Change method" Url="html/8e60bfef-99ea-429d-9252-f65743c65cf4.htm" />
+  <HelpKINode Title="Reset_Change method" Url="html/d056c25a-cbe2-d633-4e9d-ad3531c45ee1.htm" />
   <HelpKINode Title="Reset_Change_Settings method">
-    <HelpKINode Title="EntryRotorTests.Reset_Change_Settings Method " Url="html/6506c619-8189-bae5-a230-bdcee02fe38e.htm" />
-    <HelpKINode Title="ReflectorTests.Reset_Change_Settings Method " Url="html/a337b047-d703-4c83-acb2-b5e06221e701.htm" />
+    <HelpKINode Title="EntryRotorUnitTests.Reset_Change_Settings Method " Url="html/74725a86-3fa8-5279-6fad-bd34e34fce22.htm" />
+    <HelpKINode Title="ReflectorUnitTests.Reset_Change_Settings Method " Url="html/49f6f9be-04e1-d7a3-ba00-17195e3e8b4c.htm" />
   </HelpKINode>
   <HelpKINode Title="Reset_ProcessByte_Without_Init_Call method" Url="html/daae4821-4a0f-4951-c005-14292936bfc2.htm" />
   <HelpKINode Title="ReturnByte method">
@@ -1499,8 +1490,8 @@
   <HelpKINode Title="RotorControllerUnitTests class">
     <HelpKINode Title="RotorControllerUnitTests Class" Url="html/c1e49b6b-5604-37fc-99c0-7ac33352f591.htm" />
     <HelpKINode Title="about RotorControllerUnitTests class" Url="html/c1e49b6b-5604-37fc-99c0-7ac33352f591.htm" />
-    <HelpKINode Title="constructor" Url="html/a1b18d0c-17de-6563-8d11-0d60fc144ee5.htm" />
     <HelpKINode Title="constructor" Url="html/9ec6b1e4-05f9-c40b-0f11-1eb6e1961a6d.htm" />
+    <HelpKINode Title="constructor" Url="html/a1b18d0c-17de-6563-8d11-0d60fc144ee5.htm" />
     <HelpKINode Title="fields" Url="html/d0fdf623-a5a0-c377-a30e-6a7b4f964bad.htm" />
     <HelpKINode Title="methods" Url="html/6237cd17-469f-e535-82e4-47b3972016b7.htm" />
   </HelpKINode>
@@ -1543,7 +1534,7 @@
   <HelpKINode Title="RotorParameters.StartPosition property" Url="html/04c64074-8171-7d99-2816-9b4ab04eb934.htm" />
   <HelpKINode Title="RotorParameters.SubstitutionSet property" Url="html/34919dc5-53a2-23c9-871a-b0c27e08976c.htm" />
   <HelpKINode Title="RotorParameters.TurnDirection property" Url="html/5602c580-eb14-3508-41ac-f2afe8ee730e.htm" />
-  <HelpKINode Title="RotorRNG method" Url="html/14a44f68-cd17-1043-4218-17203a8652b0.htm" />
+  <HelpKINode Title="RotorRNG method" Url="html/1e21b5e9-7892-0a5c-42aa-017a8e842c95.htm" />
   <HelpKINode Title="Rotors method" Url="html/d90a3ace-a823-aa05-dfc6-623219cc002e.htm" />
   <HelpKINode Title="Rotors property">
     <HelpKINode Title="AbstractRotorController.Rotors Property " Url="html/5816c195-378a-260d-8ada-2d8cf26b0c78.htm" />
@@ -1553,61 +1544,61 @@
     <HelpKINode Title="IRotorController.Rotors Property " Url="html/d95c364e-d518-ca86-d91b-604383f765cb.htm" />
   </HelpKINode>
   <HelpKINode Title="RotorStrength method" Url="html/453bbdbc-a2b0-542b-480b-327f5ec0b53b.htm" />
-  <HelpKINode Title="RotorTestSet class">
-    <HelpKINode Title="RotorTestSet Class" Url="html/ec29cf91-89be-4af3-e78b-832cc64b3a93.htm" />
-    <HelpKINode Title="about RotorTestSet class" Url="html/ec29cf91-89be-4af3-e78b-832cc64b3a93.htm" />
-    <HelpKINode Title="constructor" Url="html/7e96b089-fe10-0718-c319-5a74074803df.htm" />
-    <HelpKINode Title="constructor" Url="html/4b1b3c2f-bc7b-cbad-2d8e-d7a8de418433.htm" />
-    <HelpKINode Title="methods" Url="html/b12aa997-9dca-58e5-221f-3754e4738b4a.htm" />
-  </HelpKINode>
-  <HelpKINode Title="RotorTestSet.Change_Incrementation method" Url="html/9df79f95-5fe6-28b7-06a4-29123a9317c2.htm" />
-  <HelpKINode Title="RotorTestSet.Change_StartPosition method" Url="html/30095d0f-7427-b07e-7b2a-82057c1b689f.htm" />
-  <HelpKINode Title="RotorTestSet.Change_SubstitutionSet_Exception method" Url="html/a1fcc852-1b22-b0c5-83f0-f3408a228ab0.htm" />
-  <HelpKINode Title="RotorTestSet.Change_TurnDirection_Exception method" Url="html/85922d9a-ba2b-c03a-2767-8687287b6e3c.htm" />
-  <HelpKINode Title="RotorTestSet.Clear method" Url="html/553b9fa7-0ca8-e37f-4ea6-9f1eaaba5758.htm" />
-  <HelpKINode Title="RotorTestSet.Cycled_Default_Value method" Url="html/ee01b7c5-fe4d-8328-ca6b-46bb1e128405.htm" />
-  <HelpKINode Title="RotorTestSet.Cycle_Check method" Url="html/1b4f3303-55b3-6120-14bd-4c378397d8a8.htm" />
-  <HelpKINode Title="RotorTestSet.Cycle_Check_Custom_StartPosition method" Url="html/079e6c33-7dc3-e10d-b80e-889d3e7a708c.htm" />
-  <HelpKINode Title="RotorTestSet.Duplicat_Side_A_Exception method" Url="html/11ec5abe-62ef-8b56-50c0-860f5e22abfa.htm" />
-  <HelpKINode Title="RotorTestSet.Duplicat_Side_B_Exception method" Url="html/331b0115-a6a7-3a4a-a7ce-79d76eb8af1d.htm" />
-  <HelpKINode Title="RotorTestSet.Incrementation_Default_Value method" Url="html/28a43d53-4ff0-1238-807c-2950ad0caaa9.htm" />
-  <HelpKINode Title="RotorTestSet.Incrementation_Past_Max_Value method" Url="html/8ba05fca-21d9-dc71-485a-7cbd7a34c073.htm" />
-  <HelpKINode Title="RotorTestSet.Incrementation_Past_Min_Value method" Url="html/7aad535b-8bae-ea85-995b-9ce52aa6a54b.htm" />
-  <HelpKINode Title="RotorTestSet.Init_Rotor_With_EndPoints method" Url="html/b0032ea4-3522-95b6-a4b9-e3238095ccf8.htm" />
-  <HelpKINode Title="RotorTestSet.Init_Rotor_With_No_EndPoints method" Url="html/53202495-6f8e-1d95-93c4-da5c59f4c967.htm" />
-  <HelpKINode Title="RotorTestSet.NextRotor method" Url="html/38269448-b514-a6ab-9c7a-6f908c38fe04.htm" />
-  <HelpKINode Title="RotorTestSet.Next_Rotor_Default_Value method" Url="html/094b8f16-bc23-fa75-2fd8-2444a29e395b.htm" />
-  <HelpKINode Title="RotorTestSet.PopulateSubitutionSet method" Url="html/7549d1aa-d2ef-6b4b-3917-6218387138af.htm" />
-  <HelpKINode Title="RotorTestSet.Posistion_Incrementation_By_One_BOTH method" Url="html/caa38851-c631-460a-019e-88c6c1feb5e0.htm" />
-  <HelpKINode Title="RotorTestSet.Posistion_Incrementation_By_One_CCW method" Url="html/30ce315d-492b-53e5-94e1-8078512091b4.htm" />
-  <HelpKINode Title="RotorTestSet.Posistion_Incrementation_By_One_CW method" Url="html/2204dc8a-9422-8e21-0bdd-4a4a19cde3f0.htm" />
-  <HelpKINode Title="RotorTestSet.Posistion_Incrementation_By_Three_BOTH method" Url="html/e3ec200e-d312-a5b9-ebf6-48d0461a1dc9.htm" />
-  <HelpKINode Title="RotorTestSet.Posistion_Incrementation_By_Three_CCW method" Url="html/6246ad0d-c27b-81d7-3887-6853d35a637b.htm" />
-  <HelpKINode Title="RotorTestSet.Posistion_Incrementation_By_Three_CW method" Url="html/ca9a2e23-016f-0ab2-6018-d87d36cf4963.htm" />
-  <HelpKINode Title="RotorTestSet.Posistion_Incrementation_By_Two_BOTH method" Url="html/b6505e4c-5429-de49-c858-21cf5febbf72.htm" />
-  <HelpKINode Title="RotorTestSet.Posistion_Incrementation_By_Two_CCW method" Url="html/26868d3f-79b5-274f-ccce-5d8ec6d68fc3.htm" />
-  <HelpKINode Title="RotorTestSet.Posistion_Incrementation_By_Two_CW method" Url="html/c9a6765d-9457-1514-e603-6ab6fb925630.htm" />
-  <HelpKINode Title="RotorTestSet.Position_Default_Value method" Url="html/ec4f0933-e9b5-abc8-deaa-2419056fe929.htm" />
-  <HelpKINode Title="RotorTestSet.ProcessByte_Encoding_Decoding_BOTH_Cycled method" Url="html/ab317a23-5bf4-9ba9-0463-46f9348ebaea.htm" />
-  <HelpKINode Title="RotorTestSet.ProcessByte_Encoding_Decoding_CCW_Cycled method" Url="html/ab57c87e-f4cf-8eb5-8250-ba10fa15c3ee.htm" />
-  <HelpKINode Title="RotorTestSet.ProcessByte_Encoding_Decoding_CW_Cycled method" Url="html/f9d1a469-c8d3-43da-0e96-ead2dbeda6c2.htm" />
-  <HelpKINode Title="RotorTestSet.ProcessByte_SubitutionSet_Null method" Url="html/3af9f83e-7913-40a1-ca69-ecd31029ac49.htm" />
-  <HelpKINode Title="RotorTestSet.Reset method" Url="html/a3f722f3-ce31-90c8-b735-fc840f048e77.htm" />
-  <HelpKINode Title="RotorTestSet.Reset_Change method" Url="html/8e60bfef-99ea-429d-9252-f65743c65cf4.htm" />
-  <HelpKINode Title="RotorTestSet.RotorTestSet constructor">
-    <HelpKINode Title="RotorTestSet Constructor " Url="html/4b1b3c2f-bc7b-cbad-2d8e-d7a8de418433.htm" />
-    <HelpKINode Title="RotorTestSet Constructor " Url="html/7e96b089-fe10-0718-c319-5a74074803df.htm" />
-  </HelpKINode>
-  <HelpKINode Title="RotorTestSet.StartPosition_Defalult_Value method" Url="html/bdee7d7b-4380-a96a-ee67-1a0608be1ebd.htm" />
-  <HelpKINode Title="RotorTestSet.StartPosition_Greatherthan_255 method" Url="html/987b5f24-f0db-b34b-b63b-566761d408ff.htm" />
-  <HelpKINode Title="RotorTestSet.StartPosition_Negative_Value method" Url="html/b1afebd8-a7a1-156d-1c0d-5546004e43fe.htm" />
-  <HelpKINode Title="RotorTestSet.SubstitutionSet_Mapping method" Url="html/73611bbd-2387-61b7-7c09-0cf5569bcbc2.htm" />
-  <HelpKINode Title="RotorTestSet.SubstitutionSet_Size_Exception method" Url="html/aaeffac3-0387-6c1d-7b95-6dad6d68e745.htm" />
-  <HelpKINode Title="RotorTestSet.Turn method" Url="html/e5147ec3-f20f-89fc-9488-7e5a8e860c8c.htm" />
-  <HelpKINode Title="RotorTestSet.TurnDirection_Default_Value method" Url="html/91d50098-4edd-3940-2c0d-381a849b65a4.htm" />
   <HelpKINode Title="RotorTurnDirection enumeration" Url="html/118cedab-1adb-af89-f682-579bb9d72b2c.htm" />
   <HelpKINode Title="RotorTurning method" Url="html/bd557396-5967-c8e9-7acb-9d0de1e7bc7c.htm" />
-  <HelpKINode Title="Rotor_Defaul method" Url="html/dcc76fbf-4ed1-9d09-81bc-a25c660cc5f5.htm" />
+  <HelpKINode Title="RotorUnitTest class">
+    <HelpKINode Title="RotorUnitTest Class" Url="html/1c1ec83b-b8f5-0c6c-6fa9-c4e937261431.htm" />
+    <HelpKINode Title="about RotorUnitTest class" Url="html/1c1ec83b-b8f5-0c6c-6fa9-c4e937261431.htm" />
+    <HelpKINode Title="constructor" Url="html/362795cf-f92a-8785-5140-f81aeef91eeb.htm" />
+    <HelpKINode Title="constructor" Url="html/c6ae67b1-d6f3-89a4-73ea-de5d01f253be.htm" />
+    <HelpKINode Title="methods" Url="html/2108a8ad-1b6e-79b0-2b31-339fd38cae5d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RotorUnitTest.Change_Incrementation method" Url="html/100dbc03-de47-0ee0-08fd-b0ce5c7a2647.htm" />
+  <HelpKINode Title="RotorUnitTest.Change_StartPosition method" Url="html/07a65750-895f-4baa-7890-244a3545e556.htm" />
+  <HelpKINode Title="RotorUnitTest.Change_SubstitutionSet_Exception method" Url="html/5fe03c17-8faa-9356-6c9a-e0c07e8ae421.htm" />
+  <HelpKINode Title="RotorUnitTest.Change_TurnDirection_Exception method" Url="html/994b3735-507f-4eb9-4f29-72eb24b196ef.htm" />
+  <HelpKINode Title="RotorUnitTest.Clear method" Url="html/a601dbf5-7a91-392b-3955-9bcf51f155ba.htm" />
+  <HelpKINode Title="RotorUnitTest.Cycled_Default_Value method" Url="html/909c3f44-3a25-9b4d-b4ed-9900420fd1f9.htm" />
+  <HelpKINode Title="RotorUnitTest.Cycle_Check method" Url="html/02adb5c2-9f01-bbfa-5f57-0116a9b8356f.htm" />
+  <HelpKINode Title="RotorUnitTest.Cycle_Check_Custom_StartPosition method" Url="html/3d1856e5-f5f7-9f18-a367-db6ab2b68c2b.htm" />
+  <HelpKINode Title="RotorUnitTest.Duplicat_Side_A_Exception method" Url="html/61944796-ee84-2a08-6395-598d89db2890.htm" />
+  <HelpKINode Title="RotorUnitTest.Duplicat_Side_B_Exception method" Url="html/d5840a10-24c6-1493-4480-b0d6adafd588.htm" />
+  <HelpKINode Title="RotorUnitTest.Incrementation_Default_Value method" Url="html/e987e948-cd81-6018-0c31-28849bff5b6a.htm" />
+  <HelpKINode Title="RotorUnitTest.Incrementation_Past_Max_Value method" Url="html/e064d34a-c1ec-0dea-3b2f-74dd3521a1d3.htm" />
+  <HelpKINode Title="RotorUnitTest.Incrementation_Past_Min_Value method" Url="html/2320b212-7ceb-8e42-b09f-2150b60677fc.htm" />
+  <HelpKINode Title="RotorUnitTest.Init_Rotor_With_EndPoints method" Url="html/69e6e065-05a8-7215-5e1a-b2fe9d2772e9.htm" />
+  <HelpKINode Title="RotorUnitTest.Init_Rotor_With_No_EndPoints method" Url="html/eac83585-c92e-bf2b-ada5-722db1abb0c1.htm" />
+  <HelpKINode Title="RotorUnitTest.NextRotor method" Url="html/78c1d139-f8cd-bddb-c728-d22c0e9442e5.htm" />
+  <HelpKINode Title="RotorUnitTest.Next_Rotor_Default_Value method" Url="html/1ab4e867-15dc-f517-7c7e-29d02a03f44b.htm" />
+  <HelpKINode Title="RotorUnitTest.PopulateSubitutionSet method" Url="html/d8a69612-b1be-97c8-2a12-1cefd789772c.htm" />
+  <HelpKINode Title="RotorUnitTest.Posistion_Incrementation_By_One_BOTH method" Url="html/821ce114-6050-5e72-be4a-9f21eab99496.htm" />
+  <HelpKINode Title="RotorUnitTest.Posistion_Incrementation_By_One_CCW method" Url="html/90ee81b0-239f-b17a-acbc-59e2d2cad483.htm" />
+  <HelpKINode Title="RotorUnitTest.Posistion_Incrementation_By_One_CW method" Url="html/99455302-3c79-cffa-98ae-44024c14192b.htm" />
+  <HelpKINode Title="RotorUnitTest.Posistion_Incrementation_By_Three_BOTH method" Url="html/1f525012-349c-68b2-4bf2-630aab090c52.htm" />
+  <HelpKINode Title="RotorUnitTest.Posistion_Incrementation_By_Three_CCW method" Url="html/338bd178-92b5-8664-8c8f-cc05f6f284b3.htm" />
+  <HelpKINode Title="RotorUnitTest.Posistion_Incrementation_By_Three_CW method" Url="html/fa4dbafa-0320-e1bb-269b-ab0c8c66cd09.htm" />
+  <HelpKINode Title="RotorUnitTest.Posistion_Incrementation_By_Two_BOTH method" Url="html/9b52fc83-ae26-d2dd-6f85-0460d47484b9.htm" />
+  <HelpKINode Title="RotorUnitTest.Posistion_Incrementation_By_Two_CCW method" Url="html/c320862b-4bde-5312-f34a-f9807e4fb88d.htm" />
+  <HelpKINode Title="RotorUnitTest.Posistion_Incrementation_By_Two_CW method" Url="html/149669a0-13e4-37a3-16dd-86db55d243f7.htm" />
+  <HelpKINode Title="RotorUnitTest.Position_Default_Value method" Url="html/1d6c38d7-133f-3139-784f-8bfa2512a79a.htm" />
+  <HelpKINode Title="RotorUnitTest.ProcessByte_Encoding_Decoding_BOTH_Cycled method" Url="html/0135edb6-1316-f114-7630-ee0d38d9fab3.htm" />
+  <HelpKINode Title="RotorUnitTest.ProcessByte_Encoding_Decoding_CCW_Cycled method" Url="html/5ec14819-925f-f735-d87e-5d055b82c69d.htm" />
+  <HelpKINode Title="RotorUnitTest.ProcessByte_Encoding_Decoding_CW_Cycled method" Url="html/5a914c1c-8805-ea6b-ac9c-e2dbed4eb862.htm" />
+  <HelpKINode Title="RotorUnitTest.ProcessByte_SubitutionSet_Null method" Url="html/0bfe9f90-91c5-72d1-26f1-ec8b5279a3f3.htm" />
+  <HelpKINode Title="RotorUnitTest.Reset method" Url="html/35c4814a-e789-552c-b962-a9ad8d9e765d.htm" />
+  <HelpKINode Title="RotorUnitTest.Reset_Change method" Url="html/d056c25a-cbe2-d633-4e9d-ad3531c45ee1.htm" />
+  <HelpKINode Title="RotorUnitTest.RotorUnitTest constructor">
+    <HelpKINode Title="RotorUnitTest Constructor " Url="html/362795cf-f92a-8785-5140-f81aeef91eeb.htm" />
+    <HelpKINode Title="RotorUnitTest Constructor " Url="html/c6ae67b1-d6f3-89a4-73ea-de5d01f253be.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RotorUnitTest.StartPosition_Defalult_Value method" Url="html/9e0c1a4b-1879-cd42-b178-cad778a85ad3.htm" />
+  <HelpKINode Title="RotorUnitTest.StartPosition_Greatherthan_255 method" Url="html/85252de4-8e13-bea1-022a-3abe101b96b0.htm" />
+  <HelpKINode Title="RotorUnitTest.StartPosition_Negative_Value method" Url="html/3bdfd295-a883-298a-2107-d3d7966996a4.htm" />
+  <HelpKINode Title="RotorUnitTest.SubstitutionSet_Mapping method" Url="html/c997efbd-3aef-aade-5a69-89b5ff71a993.htm" />
+  <HelpKINode Title="RotorUnitTest.SubstitutionSet_Size_Exception method" Url="html/ddaaee5d-2233-7b88-536b-fe1bf41c47b8.htm" />
+  <HelpKINode Title="RotorUnitTest.Turn method" Url="html/3a19074a-3ea5-0610-94c3-b3e8b8ccd386.htm" />
+  <HelpKINode Title="RotorUnitTest.TurnDirection_Default_Value method" Url="html/22ac27f1-5280-79e5-f82f-e9807b5d19f8.htm" />
+  <HelpKINode Title="Rotor_Defaul method" Url="html/f47d037b-b0af-8bf8-9f8e-d79ac4c243c0.htm" />
   <HelpKINode Title="ROTOR_INSTANCE enumeration member" Url="html/001765a5-59dd-654d-1bef-254eb670118d.htm" />
   <HelpKINode Title="ROTOR_INUSE field" Url="html/9de76e18-80c5-0f29-a265-f1448356b856.htm" />
   <HelpKINode Title="ROTOR_PARAMETERS enumeration member" Url="html/001765a5-59dd-654d-1bef-254eb670118d.htm" />
@@ -1615,13 +1606,13 @@
   <HelpKINode Title="Serialization_Entire_Instance_Fully_Populated method" Url="html/88829e8a-0847-7220-929a-867bed23c035.htm" />
   <HelpKINode Title="SideA property" Url="html/c229e0f7-4584-d1ad-3462-e28ad55b83ba.htm" />
   <HelpKINode Title="SideB property" Url="html/a2f559f3-ddf9-0e0b-190b-9dcead078748.htm" />
-  <HelpKINode Title="StarterRotor method" Url="html/6cab5b7f-11a8-e4c5-ea88-2ee8c52e7c4e.htm" />
+  <HelpKINode Title="StarterRotor method" Url="html/8a368668-6f20-767f-1011-3d378f5c8d0d.htm" />
   <HelpKINode Title="StarterRotor property">
     <HelpKINode Title="AbstractTurn.StarterRotor Property " Url="html/753cafca-2b7a-a4b6-1b08-83a1d1440498.htm" />
     <HelpKINode Title="FakeTurn.StarterRotor Property " Url="html/0e47807d-2f28-7c13-d916-08755818bbc1.htm" />
     <HelpKINode Title="ITurn.StarterRotor Property " Url="html/9aab2201-58e7-1440-a261-33d1c8ff9052.htm" />
   </HelpKINode>
-  <HelpKINode Title="StarterRotor_Default method" Url="html/75bae482-f3aa-f009-998e-f1e25bed0fa5.htm" />
+  <HelpKINode Title="StarterRotor_Default method" Url="html/bbcc321b-af6b-962b-302f-39f82f404b0c.htm" />
   <HelpKINode Title="STARTPOINT_VALUE field" Url="html/7bc38d7f-a2f4-3a9e-6ed1-b1bf81bc2e93.htm" />
   <HelpKINode Title="StartPosition property">
     <HelpKINode Title="AbstractRotor.StartPosition Property " Url="html/b710ade9-797e-d659-8cb6-40a044060f9a.htm" />
@@ -1632,9 +1623,9 @@
     <HelpKINode Title="IRotorParameters.StartPosition Property " Url="html/96b9749a-d9aa-bf56-bcbf-5e8c5df165b6.htm" />
     <HelpKINode Title="RotorParameters.StartPosition Property " Url="html/04c64074-8171-7d99-2816-9b4ab04eb934.htm" />
   </HelpKINode>
-  <HelpKINode Title="StartPosition_Defalult_Value method" Url="html/bdee7d7b-4380-a96a-ee67-1a0608be1ebd.htm" />
-  <HelpKINode Title="StartPosition_Greatherthan_255 method" Url="html/987b5f24-f0db-b34b-b63b-566761d408ff.htm" />
-  <HelpKINode Title="StartPosition_Negative_Value method" Url="html/b1afebd8-a7a1-156d-1c0d-5546004e43fe.htm" />
+  <HelpKINode Title="StartPosition_Defalult_Value method" Url="html/9e0c1a4b-1879-cd42-b178-cad778a85ad3.htm" />
+  <HelpKINode Title="StartPosition_Greatherthan_255 method" Url="html/85252de4-8e13-bea1-022a-3abe101b96b0.htm" />
+  <HelpKINode Title="StartPosition_Negative_Value method" Url="html/3bdfd295-a883-298a-2107-d3d7966996a4.htm" />
   <HelpKINode Title="START_POSITION field" Url="html/a496a871-ca68-4c63-a05b-74aac989df90.htm" />
   <HelpKINode Title="StringExtensions class">
     <HelpKINode Title="StringExtensions Class" Url="html/0d00a735-d3f5-9909-72d2-7847f382adaa.htm" />
@@ -1658,27 +1649,26 @@
   </HelpKINode>
   <HelpKINode Title="SUBSTITUTIONSETERR field" Url="html/faca665a-0225-382d-d2fb-ad38cd3be570.htm" />
   <HelpKINode Title="SubstitutionSet_Constructor_Mapping method">
-    <HelpKINode Title="EntryRotorTests.SubstitutionSet_Constructor_Mapping Method " Url="html/d23d3c6d-ecfb-cdb6-d237-4b517f438e36.htm" />
-    <HelpKINode Title="ReflectorTests.SubstitutionSet_Constructor_Mapping Method " Url="html/6d765410-b77b-a685-59f3-73a53414d398.htm" />
+    <HelpKINode Title="EntryRotorUnitTests.SubstitutionSet_Constructor_Mapping Method " Url="html/f37fbcb4-b61d-c733-5721-eeabcb704808.htm" />
+    <HelpKINode Title="ReflectorUnitTests.SubstitutionSet_Constructor_Mapping Method " Url="html/03a460b7-1e65-5368-c3ee-5061f245baf1.htm" />
   </HelpKINode>
   <HelpKINode Title="SubstitutionSet_Default_Value method">
-    <HelpKINode Title="EntryRotorTests.SubstitutionSet_Default_Value Method " Url="html/95252dc4-c750-7521-5ba1-cb959360254e.htm" />
-    <HelpKINode Title="ReflectorTests.SubstitutionSet_Default_Value Method " Url="html/cf06083f-38f2-d394-52ba-e5d715e93f3a.htm" />
+    <HelpKINode Title="EntryRotorUnitTests.SubstitutionSet_Default_Value Method " Url="html/33550b25-5f02-3873-90f1-2096587b7d24.htm" />
+    <HelpKINode Title="ReflectorUnitTests.SubstitutionSet_Default_Value Method " Url="html/65aa0b31-14e1-191a-2d62-302ae16c3af2.htm" />
   </HelpKINode>
-  <HelpKINode Title="SubstitutionSet_Mapping method" Url="html/73611bbd-2387-61b7-7c09-0cf5569bcbc2.htm" />
+  <HelpKINode Title="SubstitutionSet_Mapping method" Url="html/c997efbd-3aef-aade-5a69-89b5ff71a993.htm" />
   <HelpKINode Title="SUBSTITUTIONSET_NULL field" Url="html/76f99fdd-7b46-627e-65d5-9430fdba54cc.htm" />
   <HelpKINode Title="SubstitutionSet_Property_Mapping method">
-    <HelpKINode Title="EntryRotorTests.SubstitutionSet_Property_Mapping Method " Url="html/4af8b12c-99bd-ca45-2558-3b3743cad653.htm" />
-    <HelpKINode Title="ReflectorTests.SubstitutionSet_Property_Mapping Method " Url="html/89c8e41d-d83e-edfc-5697-68af9226fe6d.htm" />
+    <HelpKINode Title="EntryRotorUnitTests.SubstitutionSet_Property_Mapping Method " Url="html/52a9a3fc-73c5-7cb9-d1f6-d4b1ba9c145b.htm" />
+    <HelpKINode Title="ReflectorUnitTests.SubstitutionSet_Property_Mapping Method " Url="html/a7ae0609-0c16-530a-9125-d2ea6e1ee4d8.htm" />
   </HelpKINode>
   <HelpKINode Title="SubstitutionSet_Size_Exception method">
-    <HelpKINode Title="EntryRotorTests.SubstitutionSet_Size_Exception Method " Url="html/a71ad6f9-ebfc-d7c8-a10e-0182108f9eb7.htm" />
-    <HelpKINode Title="ReflectorTests.SubstitutionSet_Size_Exception Method " Url="html/f6c3bb08-a511-4586-a722-2a0f6a4dac64.htm" />
-    <HelpKINode Title="RotorTestSet.SubstitutionSet_Size_Exception Method " Url="html/aaeffac3-0387-6c1d-7b95-6dad6d68e745.htm" />
+    <HelpKINode Title="EntryRotorUnitTests.SubstitutionSet_Size_Exception Method " Url="html/50ae1605-804f-934c-cdfd-84d9d890b0f9.htm" />
+    <HelpKINode Title="ReflectorUnitTests.SubstitutionSet_Size_Exception Method " Url="html/51af9185-a1fa-988c-d1d9-313c77c30afd.htm" />
+    <HelpKINode Title="RotorUnitTest.SubstitutionSet_Size_Exception Method " Url="html/ddaaee5d-2233-7b88-536b-fe1bf41c47b8.htm" />
   </HelpKINode>
   <HelpKINode Title="System namespace" Url="html/7bae3666-6d20-26f2-6798-b8095e51d913.htm" />
   <HelpKINode Title="System.StringExtensions class" Url="html/0d00a735-d3f5-9909-72d2-7847f382adaa.htm" />
-  <HelpKINode Title="test method" Url="html/6ddd28c0-88d2-29b0-70b3-06ac6bf026df.htm" />
   <HelpKINode Title="Transpose method">
     <HelpKINode Title="AbstractPlugboard.Transpose Method " Url="html/180f1e1c-4cca-d2e7-e4e1-4bf8511ea4b9.htm" />
     <HelpKINode Title="FakePlugboard.Transpose Method " Url="html/408e8c73-37bb-8045-3688-870aede39213.htm" />
@@ -1713,7 +1703,7 @@
     <HelpKINode Title="IRotor.Turn Method " Url="html/553b246c-447e-c501-3ac1-331650994a09.htm" />
     <HelpKINode Title="Reflector.Turn Method " Url="html/5f557fc4-a408-9ce0-9208-884b0d5bdec8.htm" />
     <HelpKINode Title="Rotor.Turn Method " Url="html/9a1bd4c8-d1df-e0da-de70-14f612d24451.htm" />
-    <HelpKINode Title="RotorTestSet.Turn Method " Url="html/e5147ec3-f20f-89fc-9488-7e5a8e860c8c.htm" />
+    <HelpKINode Title="RotorUnitTest.Turn Method " Url="html/3a19074a-3ea5-0610-94c3-b3e8b8ccd386.htm" />
   </HelpKINode>
   <HelpKINode Title="Turn.Clear method" Url="html/1ae8945d-f414-f75e-909a-54f709116f5a.htm" />
   <HelpKINode Title="Turn.Turn constructor" Url="html/7d9a1c3d-d9f0-ceb6-601a-f1d4032ac9fb.htm" />
@@ -1727,13 +1717,13 @@
     <HelpKINode Title="IRotorParameters.TurnDirection Property " Url="html/98c9978b-203a-a5cd-b66e-d31406924178.htm" />
     <HelpKINode Title="RotorParameters.TurnDirection Property " Url="html/5602c580-eb14-3508-41ac-f2afe8ee730e.htm" />
   </HelpKINode>
-  <HelpKINode Title="TurnDirection_Default_Value method" Url="html/91d50098-4edd-3940-2c0d-381a849b65a4.htm" />
+  <HelpKINode Title="TurnDirection_Default_Value method" Url="html/22ac27f1-5280-79e5-f82f-e9807b5d19f8.htm" />
   <HelpKINode Title="TurnRotor method">
     <HelpKINode Title="AbstractTurn.TurnRotor Method " Url="html/1233dddd-30dc-5f6b-4f8b-3acdf710f783.htm" />
     <HelpKINode Title="FakeTurn.TurnRotor Method " Url="html/127e051e-6f79-7511-dcab-6ab345407582.htm" />
     <HelpKINode Title="ITurn.TurnRotor Method " Url="html/04adb265-0ac6-237e-ee78-2607cd4df693.htm" />
     <HelpKINode Title="Turn.TurnRotor Method " Url="html/0e24acfa-5302-0e80-4db9-852c5a06c1d8.htm" />
-    <HelpKINode Title="TurnTests.TurnRotor Method " Url="html/5366cc46-ea8a-c8ca-625b-c2cdd0e7f0d0.htm" />
+    <HelpKINode Title="TurnUnitTests.TurnRotor Method " Url="html/bdc31800-2211-5c23-1810-678b7482fa58.htm" />
   </HelpKINode>
   <HelpKINode Title="TurnRotorCalled property" Url="html/91e1c6f9-3505-50a5-44f4-002423635607.htm" />
   <HelpKINode Title="Turns method" Url="html/3f9be447-4f75-4880-e86d-a37460f1b5fc.htm" />
@@ -1744,30 +1734,30 @@
     <HelpKINode Title="FakeRotorController.Turns Property " Url="html/6a2cd730-be60-c435-b243-2357534437ac.htm" />
     <HelpKINode Title="IRotorController.Turns Property " Url="html/45747535-6703-e1b3-8d08-d6cd8e605629.htm" />
   </HelpKINode>
-  <HelpKINode Title="TurnTests class">
-    <HelpKINode Title="TurnTests Class" Url="html/72ac4885-f931-0891-69b4-69effbc1bbbc.htm" />
-    <HelpKINode Title="about TurnTests class" Url="html/72ac4885-f931-0891-69b4-69effbc1bbbc.htm" />
-    <HelpKINode Title="constructor" Url="html/4ae9252d-e20c-e63f-5f89-a5c8903923e5.htm" />
-    <HelpKINode Title="constructor" Url="html/8d638728-2662-00c1-c996-9aff9b0b05db.htm" />
-    <HelpKINode Title="methods" Url="html/e864e2c8-6252-8090-06ac-3a025412449e.htm" />
+  <HelpKINode Title="TurnUnitTests class">
+    <HelpKINode Title="TurnUnitTests Class" Url="html/1ce85381-05d4-bc45-9b53-1693a3199875.htm" />
+    <HelpKINode Title="about TurnUnitTests class" Url="html/1ce85381-05d4-bc45-9b53-1693a3199875.htm" />
+    <HelpKINode Title="constructor" Url="html/fc7d5cff-4bc3-28e7-a1fc-df65a0ce23a6.htm" />
+    <HelpKINode Title="constructor" Url="html/f0635e4f-9183-c3e4-f1e1-391386e9d42f.htm" />
+    <HelpKINode Title="methods" Url="html/8a45dbe6-ad77-4cf9-d67c-cf9eda4a0e09.htm" />
   </HelpKINode>
-  <HelpKINode Title="TurnTests.Change_NextTurn method" Url="html/d8cf095f-c25d-d59f-74cb-7a3631cd5dc4.htm" />
-  <HelpKINode Title="TurnTests.Change_Rotor method" Url="html/bba80e23-2a6c-ba0a-a7d6-0ef999455fe7.htm" />
-  <HelpKINode Title="TurnTests.Clear method" Url="html/ec7f3710-3584-5c7d-a79d-ecfbdcbfb894.htm" />
-  <HelpKINode Title="TurnTests.Cycled_Null_Rotor method" Url="html/09083c1e-2b8f-24cf-b120-11dca10218f7.htm" />
-  <HelpKINode Title="TurnTests.FullyCycled_Default method" Url="html/645df59e-4986-bc71-1983-6341812fd550.htm" />
-  <HelpKINode Title="TurnTests.FullyCycled_False method" Url="html/468b0bb4-fcb4-2fe1-5b49-57e4d6e6c805.htm" />
-  <HelpKINode Title="TurnTests.FullyCycled_True method" Url="html/c4f2d913-f9a3-4fd2-5c01-95b1dadd30c8.htm" />
-  <HelpKINode Title="TurnTests.NextTurn_Call method" Url="html/5565dd13-0d6b-9a43-2146-053ae331434e.htm" />
-  <HelpKINode Title="TurnTests.NextTurn_Default method" Url="html/261f1771-6f55-c2d8-a1cf-6d79b5884d34.htm" />
-  <HelpKINode Title="TurnTests.PopulateSubitutionSet method" Url="html/6478fcf4-7173-5bfd-b1f3-e203554a3a83.htm" />
-  <HelpKINode Title="TurnTests.Rotor_Defaul method" Url="html/dcc76fbf-4ed1-9d09-81bc-a25c660cc5f5.htm" />
-  <HelpKINode Title="TurnTests.StarterRotor method" Url="html/6cab5b7f-11a8-e4c5-ea88-2ee8c52e7c4e.htm" />
-  <HelpKINode Title="TurnTests.StarterRotor_Default method" Url="html/75bae482-f3aa-f009-998e-f1e25bed0fa5.htm" />
-  <HelpKINode Title="TurnTests.TurnRotor method" Url="html/5366cc46-ea8a-c8ca-625b-c2cdd0e7f0d0.htm" />
-  <HelpKINode Title="TurnTests.TurnTests constructor">
-    <HelpKINode Title="TurnTests Constructor " Url="html/8d638728-2662-00c1-c996-9aff9b0b05db.htm" />
-    <HelpKINode Title="TurnTests Constructor " Url="html/4ae9252d-e20c-e63f-5f89-a5c8903923e5.htm" />
+  <HelpKINode Title="TurnUnitTests.Change_NextTurn method" Url="html/42a5eeae-7813-230c-90c5-3150e41768c3.htm" />
+  <HelpKINode Title="TurnUnitTests.Change_Rotor method" Url="html/9228f32a-5ace-1ea2-d52a-918f77a2ad64.htm" />
+  <HelpKINode Title="TurnUnitTests.Clear method" Url="html/6eea48c3-fcf3-f7de-3423-dd956779d207.htm" />
+  <HelpKINode Title="TurnUnitTests.Cycled_Null_Rotor method" Url="html/f7e1b367-5393-e7be-2868-3056a07cd6ff.htm" />
+  <HelpKINode Title="TurnUnitTests.FullyCycled_Default method" Url="html/1d27e727-2cad-0e26-adb0-a65e2366fa4f.htm" />
+  <HelpKINode Title="TurnUnitTests.FullyCycled_False method" Url="html/b1590364-e3cb-44e4-5e5e-e63750d6f1f6.htm" />
+  <HelpKINode Title="TurnUnitTests.FullyCycled_True method" Url="html/e28e9900-cc7f-ca77-ed40-8ef0b1157616.htm" />
+  <HelpKINode Title="TurnUnitTests.NextTurn_Call method" Url="html/04952af8-1bf9-bd21-b20d-454ef581d63e.htm" />
+  <HelpKINode Title="TurnUnitTests.NextTurn_Default method" Url="html/be8a5a1a-c571-0cb3-f437-8c3dad5ec1ff.htm" />
+  <HelpKINode Title="TurnUnitTests.PopulateSubitutionSet method" Url="html/2a1b3c58-8e72-0a03-6780-a8b95ccbb949.htm" />
+  <HelpKINode Title="TurnUnitTests.Rotor_Defaul method" Url="html/f47d037b-b0af-8bf8-9f8e-d79ac4c243c0.htm" />
+  <HelpKINode Title="TurnUnitTests.StarterRotor method" Url="html/8a368668-6f20-767f-1011-3d378f5c8d0d.htm" />
+  <HelpKINode Title="TurnUnitTests.StarterRotor_Default method" Url="html/bbcc321b-af6b-962b-302f-39f82f404b0c.htm" />
+  <HelpKINode Title="TurnUnitTests.TurnRotor method" Url="html/bdc31800-2211-5c23-1810-678b7482fa58.htm" />
+  <HelpKINode Title="TurnUnitTests.TurnUnitTests constructor">
+    <HelpKINode Title="TurnUnitTests Constructor " Url="html/fc7d5cff-4bc3-28e7-a1fc-df65a0ce23a6.htm" />
+    <HelpKINode Title="TurnUnitTests Constructor " Url="html/f0635e4f-9183-c3e4-f1e1-391386e9d42f.htm" />
   </HelpKINode>
   <HelpKINode Title="TURN_INSTANCE enumeration member" Url="html/001765a5-59dd-654d-1bef-254eb670118d.htm" />
   <HelpKINode Title="Two_Rotor_Encode_Decode method" Url="html/4b42881b-9fe4-cc0b-17f0-1f312aabcedb.htm" />

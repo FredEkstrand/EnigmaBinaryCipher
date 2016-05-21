@@ -98,7 +98,7 @@ namespace Ekstrand.Encryption.Ciphers
         }
 
         /// <summary>
-        /// Resets back to its start state
+        /// Resets its components back to their start state.
         /// </summary>
         public override void Reset()
 		{

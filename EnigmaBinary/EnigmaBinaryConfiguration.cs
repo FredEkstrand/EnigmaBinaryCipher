@@ -23,16 +23,29 @@ using System.Text;
 
 namespace Ekstrand.Encryption.Ciphers
 {
+    /// <summary>
+    /// Enigma Binary Configuration class is responsible for:
+    /// Reading configuration file and configure Enigma Manager, and
+    /// Create a configuration file. 
+    /// </summary>
     internal class EnigmaBinaryConfiguration
     {
         EnigmaManager m_EnigmaManager;
         EnigmaBinaryParameters m_Parameters;
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="EnigmaBinaryConfiguration"/> class.
+        /// </summary>
         public EnigmaBinaryConfiguration()
         {
 
         }
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="EnigmaBinaryConfiguration"/> class.
+        /// </summary>
+        /// <param name="em">EnigmaManager</param>
+        /// <param name="param">EnigmaBinaryParameters</param>
         public EnigmaBinaryConfiguration(EnigmaManager em, EnigmaBinaryParameters param):this()
         {
             m_EnigmaManager = em;
@@ -68,6 +81,9 @@ namespace Ekstrand.Encryption.Ciphers
             return ebp;
         }
 
+        /// <summary>
+        /// Processes the given EnigmaBinaryParameters.
+        /// </summary>
         private void ProcessParameters()
         {
             RandomEndPointsGenerator rand = new RandomEndPointsGenerator();
@@ -208,6 +224,10 @@ namespace Ekstrand.Encryption.Ciphers
             }
         }
 
+        /// <summary>
+        /// Checks if the CipherController and RotorController are fully populated.
+        /// </summary>
+        /// <returns>Returns <c>ture</c> if fully populated otherwise <c>false</c></returns>
         private bool FullyPopulated()
         {
             if (m_EnigmaManager.CipherController.Plugboard != null)

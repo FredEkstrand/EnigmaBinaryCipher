@@ -28,7 +28,7 @@ namespace Ekstrand.Encryption.Ciphers
     public interface IRotor
 	{
         /// <summary>
-        /// Endcode/Decode byte
+        /// Encode/Decode byte
         /// </summary>
         /// <param name="value">The value.</param>
         ///  /// <param name="encode">Bool mode of operation "true" is encode and "false" is decode</param>
@@ -41,7 +41,7 @@ namespace Ekstrand.Encryption.Ciphers
         void Turn();
 
         /// <summary>
-        /// Reset Rotor back to starting position
+        /// Resets back to its start state. 
         /// </summary>
         void Reset();
 

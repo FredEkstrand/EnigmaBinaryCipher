@@ -40,7 +40,7 @@ namespace Ekstrand.Encryption.Ciphers
         void Clear();
 
         /// <summary>
-        /// Resets the Plugboard back to a start state.
+        /// Resets back to its start state.
         /// </summary>
         void Reset();
 

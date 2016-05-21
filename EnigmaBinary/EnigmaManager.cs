@@ -23,7 +23,7 @@ using System.Text;
 namespace Ekstrand.Encryption.Ciphers
 {
     /// <summary>
-    /// Responsible for managing operation, initialization, and configuring: EntryRotor, Rotors, Reflector, Turn, Plugboard, CipherController.
+    /// Responsible for managing: operation, initialization, and configuring: EntryRotor, Rotors, Reflector, Turn, Plugboard, CipherController and RotorController.
     /// </summary>
     [Serializable]
     public class EnigmaManager
@@ -143,7 +143,7 @@ namespace Ekstrand.Encryption.Ciphers
 		}
 
         /// <summary>
-        /// Resets this instance.
+        /// Resets back to its start state.
         /// </summary>
         public void Reset()
         {
@@ -172,7 +172,7 @@ namespace Ekstrand.Encryption.Ciphers
         }
 
         /// <summary>
-        /// Initializes the rotors.
+        /// Initializes a collection of rotors.
         /// </summary>
         private void InitRotors()
 		{
@@ -203,6 +203,10 @@ namespace Ekstrand.Encryption.Ciphers
             }            
 		}
 
+        /// <summary>
+        /// Initializes a collection of rotors.
+        /// </summary>
+        /// <param name="count">Number of rotors to be created.</param>
         private void InitRotors(int count)
         {
             for (int i = 0; i < count; i++)

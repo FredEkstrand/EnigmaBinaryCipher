@@ -26,7 +26,7 @@ using System;
 
 namespace Ekstrand.Encryption.Ciphers
 {
-    /// <summary>The interface stream ciphers conform to.</summary>
+    /// <summary>Defining the interface for a stream cipher.</summary>
     public interface IStreamCipher
     {
         /// <summary>The name of the algorithm this cipher implements.</summary>

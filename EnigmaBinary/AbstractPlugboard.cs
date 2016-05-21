@@ -50,7 +50,7 @@ namespace Ekstrand.Encryption.Ciphers
         /// <summary>
         /// Initializes a new instance of the <see cref="AbstractPlugboard"/> class.
         /// </summary>
-        public AbstractPlugboard()
+        internal AbstractPlugboard()
 		{
             m_Transulation = new Dictionary<byte, byte>();
 		}
@@ -74,7 +74,7 @@ namespace Ekstrand.Encryption.Ciphers
         public abstract void Clear();
 
         /// <summary>
-        /// Resets the Plugboard back to a start state.
+        /// Resets back to its start state. 
         /// </summary>
         public void Reset()
         {

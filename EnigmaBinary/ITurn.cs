@@ -39,7 +39,7 @@ namespace Ekstrand.Encryption.Ciphers
         void Clear();
 
         /// <summary>
-        /// Resets this instance.
+        /// Resets back to its start state if it has one.
         /// </summary>
         void Reset();
 
