@@ -1,7 +1,8 @@
 language: csharp
-
-install:
+solution: EnigmaBinary.sln
+before_install:
+  - sudo apt-get install nunit-console
+before_script:
   - nuget restore EnigmaBinary.sln
-  - nuget install NUnit.Runners -Version 3.2.1 
-script: 
-  - for f in $(find ./ -name '*.*'); do
+after_script:
+  - nunit-console EnigmaBinaryTest/bin/Debug/EnigmaBinaryTest.dll
