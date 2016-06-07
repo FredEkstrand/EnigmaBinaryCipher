@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EnigmasSecurity</name>
+    </assembly>
+    <members>
+        <member name="T:EnigmasSecurity.Program">
+            <summary>
+            This class calculates the cryptographic strength of Enigma.
+            </summary>
+        </member>
+        <member name="M:EnigmasSecurity.Program.PlugboardStrength">
+            <summary>
+            Plugboard strength.
+            </summary>
+            <returns>Return the calculated result</returns>
+            <remarks>Return value is all 256 byte values for maximum strength</remarks>
+        </member>
+        <member name="M:EnigmasSecurity.Program.RotorStrength">
+            <summary>
+            Rotors strength.
+            </summary>
+            <returns>Return the calculated result</returns>
+        </member>
+        <member name="M:EnigmasSecurity.Program.ReflectorStrength">
+            <summary>
+            Reflectors strength.
+            </summary>
+            <returns>Return calculated result</returns>
+            <remarks>Similar to rotors</remarks>
+        </member>
+        <member name="M:EnigmasSecurity.Program.RotorInitialPositions">
+            <summary>
+            Rotors initial positions.
+            </summary>
+            <returns>Return calculated results</returns>
+            <remarks>Starting positions of the rotor.</remarks>
+        </member>
+        <member name="M:EnigmasSecurity.Program.RotorTurning">
+            <summary>
+            Rotors turning.
+            </summary>
+            <returns>Returns the calculated result</returns>
+            <remarks>
+            Calculation is based on simple cycled rotation for each rotor.
+            </remarks>
+        </member>
+        <member name="M:EnigmasSecurity.Program.Factorial(System.Int32)">
+            <summary>
+            Factorial the given integer value 'n'.
+            </summary>
+            <param name="n">Integer value</param>
+            <returns>Returns the factorial of the given value</returns>
+            <exception cref="T:System.ArgumentException">Non-negative integer only</exception>
+        </member>
+        <member name="M:EnigmasSecurity.Program.DoubleFactorial(System.Int32)">
+            <summary>
+            Double Factorial the given integer value 'n'.
+            </summary>
+            <param name="n">The n.</param>
+            <returns>Returns the double factorial of the given value.</returns>
+        </member>
+        <member name="M:EnigmasSecurity.Program.Combination(System.Int32,System.Int32)">
+            <summary>
+            Combinations 
+            </summary>
+            <param name="n">Integer number of elements.</param>
+            <param name="k">Integer number to choose from 'n'.</param>
+            <returns></returns>
+        </member>
+        <member name="M:EnigmasSecurity.Program.Permutation(System.Int32,System.Int32)">
+            <summary>
+            Permutations
+            </summary>
+            <param name="n">Integer number of elements.</param>
+            <param name="k">Integer number to choose from 'n'.</param>
+            <returns>Returns the permutation from 'k' chooses from 'n'.</returns>
+        </member>
+        <member name="M:EnigmasSecurity.Program.Power(System.Numerics.BigInteger,System.Int32)">
+            <summary>
+            Powers
+            </summary>
+            <param name="base">BigInteger base value.</param>
+            <param name="exponent">BigInteger exponent value.</param>
+            <returns>Return the calculated Power from base and exponent.</returns>
+        </member>
+        <member name="M:System.StringExtensions.PadCenter(System.String,System.Int32)">
+            <summary>
+            Returns a new string that center-aligns the characters in this string by padding them with spaces on the left and right, for a specified total length. 
+            </summary>
+            <param name="s">String</param>
+            <param name="totalWidth">Integer The number of characters in the resulting string, equal to the number of original characters plus any additional 
+            padding characters. </param>
+            <returns>String A new string that is equivalent to this instance, but center-aligned and padded on the left and right with as many spaces as needed 
+            to create a length of totalWidth. However, if totalWidth is less than the length of this instance, the method returns a reference to the existing instance. 
+            If totalWidth is equal to the length of this instance, the method returns a new string that is identical to this instance.</returns>
+        </member>
+        <member name="M:System.StringExtensions.PadCenter(System.String,System.Int32,System.Char)">
+            <summary>
+            Returns a new string that center-aligns the characters in this string by padding them with spaces on the left and right, for a specified total length using user defined character. 
+            </summary>
+            <param name="s">String</param>
+            <param name="totalWidth">Integer The number of characters in the resulting string, equal to the number of original characters plus any additional 
+            padding characters. </param>
+            <param name="paddingChar">A Unicode padding character.</param>
+            <returns>String A new string that is equivalent to this instance, but center-aligned and padded on the left and right with as many spaces as needed 
+            to create a length of totalWidth. However, if totalWidth is less than the length of this instance, the method returns a reference to the existing instance. 
+            If totalWidth is equal to the length of this instance, the method returns a new string that is identical to this instance.</returns>
+        </member>
+        <member name="M:System.StringExtensions.PadRightCrop(System.String,System.Int32)">
+            <summary>
+            Returns a new string that left-aligns the characters in this string by padding them with spaces on the right, for a specified total length. 
+            </summary>
+            <param name="s">String</param>
+            <param name="totalWidth">Integer The number of characters in the resulting string, equal to the number of original characters plus any additional 
+            padding characters. </param>
+            <returns>String A new string that is equivalent to this instance, but left-aligned and padded on the right with as many spaces as needed to create 
+            a length of totalWidth. However, if totalWidth is less than the length of this instance, the method will crop the right end to totalWidth. 
+            If totalWidth is equal to the length of this instance, the method returns a new string that is identical to this instance.</returns>
+        </member>
+        <member name="M:System.StringExtensions.PadRightCrop(System.String,System.Int32,System.Char)">
+            <summary>
+            Returns a new string that right-aligns the characters in this string by padding them with spaces on the right, for a specified total length.
+            </summary>
+            <param name="s"></param>
+            <param name="totalWidth">Integer The number of characters in the resulting string, equal to the number of original characters plus any additional 
+            padding characters. </param>
+            <param name="paddingChar">A Unicode padding character.</param>
+            <returns>String A new string that is equivalent to this instance, but left-aligned and padded on the right with as many spaces as needed to create 
+            a length of totalWidth. However, if totalWidth is less than the length of this instance, the method will crop the right end to totalWidth. 
+            If totalWidth is equal to the length of this instance, the method returns a new string that is identical to this instance.</returns>
+        </member>
+    </members>
+</doc>

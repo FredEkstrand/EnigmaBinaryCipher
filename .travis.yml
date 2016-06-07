@@ -1,0 +1,7 @@
+language: csharp
+
+install:
+  - nuget restore EnigmaBinary.sln
+  - nuget install NUnit.Runners -Version 3.2.1 
+script: 
+  - for f in $(find ./ -name '*.*'); do

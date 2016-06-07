@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Ekstrand.Encryption.Ciphers.AbstractCipherController" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAgEAAAABQAAAAAAAAAAAABCAAEAAAgAAABAAAA=</HashCode>
+      <FileName>AbstractCipherController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.AbstractPlugboard" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAYBAABAgAAgBAAAQAAAAgAAAAAAAAAAhgAIA=</HashCode>
+      <FileName>AbstractPlugboard.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.AbstractRotor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>UCAAIABEMBCARAggAAACBCQCAAAwAFAABAQgAABiIAA=</HashCode>
+      <FileName>AbstractRotor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.AbstractRotorController" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIAAAEAAAABQAAQAAAAAAAQAAAAAAEAEAAAABAAYA=</HashCode>
+      <FileName>AbstractRotorController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.AbstractTurn" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQBACBAAAQAAAAACAEACAAAAIAAAQAABAAQA=</HashCode>
+      <FileName>AbstractTurn.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.CipherController" Collapsed="true">
+    <Position X="12" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAABQAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>CipherController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.CryptoException" Collapsed="true">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CryptoException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.DataLengthException" Collapsed="true">
+    <Position X="12" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataLengthException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.EndPointPair&lt;T1, T2&gt;" Collapsed="true">
+    <Position X="13.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAQAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EndPointPair.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary" Collapsed="true">
+    <Position X="15.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAIAAAEABAARBAAAABAIAAAABAAIAEAAEgCgAAAAYA=</HashCode>
+      <FileName>EnigmaBinary.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.EnigmaBinaryConfiguration" Collapsed="true">
+    <Position X="13.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAABAAAAAABAAIAAAAAAAAAAQAAA=</HashCode>
+      <FileName>EnigmaBinaryConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.EnigmaBinaryParameters" Collapsed="true">
+    <Position X="5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAEAAAAAYAQAAAEEBMgAgAAAAYA=</HashCode>
+      <FileName>EnigmaBinaryParameters.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.EnigmaManager" Collapsed="true">
+    <Position X="13.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBAAAAAAABACBQgAAACAAQAAAAACNAAAAAAAgABAAAA=</HashCode>
+      <FileName>EnigmaManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.EntryRotor" Collapsed="true">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAABAAAAAACBAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>EntryRotor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.Plugboard" Collapsed="true">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhAAAA=</HashCode>
+      <FileName>Plugboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.Reflector" Collapsed="true">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAABAAAAAACBAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Reflector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.Rotor" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAABAAAAACABAAAAAACAAAQAAAAEAAAAAAAAABAAAA=</HashCode>
+      <FileName>Rotor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.Turn" Collapsed="true">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Turn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.RotorController" Collapsed="true">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAABQAAAAAAgAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>RotorController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.RotorParameters" Collapsed="true">
+    <Position X="6.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAEAAAAAAAAAACAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RotorParameters.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.ReflectorParameters" Collapsed="true">
+    <Position X="8.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReflectorParameters.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.EntryRotorParameters" Collapsed="true">
+    <Position X="10.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EntryRotorParameters.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Ekstrand.Encryption.Ciphers.RandomEndPointsGenerator" Collapsed="true">
+    <Position X="13.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACIAAAAAQAAAgQAAAAAAEABAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RandomEndPointsGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Ekstrand.Encryption.Ciphers.ICipherController" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAABQAAAAAAAAAAAAAAAAEAAAgAAABAAAA=</HashCode>
+      <FileName>ICipherController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ekstrand.Encryption.Ciphers.ICipherParameters" Collapsed="true">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICipherParameters.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ekstrand.Encryption.Ciphers.IEntryRotorParameters" Collapsed="true">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IEntryRotorParameters.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ekstrand.Encryption.Ciphers.IPlugboard" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAgAAAAAAAAAAAAAAAAAAAAhAAAA=</HashCode>
+      <FileName>IPlugboard.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ekstrand.Encryption.Ciphers.IReflectorParameters" Collapsed="true">
+    <Position X="8.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IReflectorParameters.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ekstrand.Encryption.Ciphers.IRotor" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAAAABAEACABAAgAAACAAACAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>IRotor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ekstrand.Encryption.Ciphers.IRotorController" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIAAAAAAAABQAAAAAAAAAAAAAAAAAAAEAAAABAAYA=</HashCode>
+      <FileName>IRotorController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ekstrand.Encryption.Ciphers.IRotorParameters" Collapsed="true">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAEAAAAAAAAAACAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IRotorParameters.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ekstrand.Encryption.Ciphers.IStreamCipher" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAARAAAAAAAAAAAABAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>IStreamCipher.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ekstrand.Encryption.Ciphers.ITurn" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAQAAAAACAEACAAAAAAAAAAABAAQA=</HashCode>
+      <FileName>ITurn.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Ekstrand.Encryption.Ciphers.RotorTurnDirection" Collapsed="true">
+    <Position X="15.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAABAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>RotorTurnDirection.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

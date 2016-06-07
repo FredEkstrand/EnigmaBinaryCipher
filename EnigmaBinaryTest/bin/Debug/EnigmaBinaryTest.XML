@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EnigmaBinaryTest</name>
+    </assembly>
+    <members>
+        <member name="T:EnigmaBinaryTest.ConfigurationTypes">
+            <summary>
+            Enigma Binary Parameters configuration enumeration.
+            </summary>
+        </member>
+        <member name="F:EnigmaBinaryTest.ConfigurationTypes.NONE">
+            <summary>
+            Default unconfigured state.
+            </summary>
+        </member>
+        <member name="F:EnigmaBinaryTest.ConfigurationTypes.CIPHERCONTROLLER">
+            <summary>
+            Cipher Controller instance object only.
+            </summary>
+        </member>
+        <member name="F:EnigmaBinaryTest.ConfigurationTypes.CIPHERCONTROLLER_FULL">
+            <summary>
+            Cipher Controller instance fully populated.
+            </summary>
+        </member>
+        <member name="F:EnigmaBinaryTest.ConfigurationTypes.ROTORCONTROLLER">
+            <summary>
+            Rotor Controller instance object only.
+            </summary>
+        </member>
+        <member name="F:EnigmaBinaryTest.ConfigurationTypes.ROTORCONTROLLER_FULL">
+            <summary>
+            Rotor Controller instance fully populated.
+            </summary>
+        </member>
+        <member name="F:EnigmaBinaryTest.ConfigurationTypes.ROTOR_INSTANCE">
+            <summary>
+            Rotor instance object.
+            </summary>
+        </member>
+        <member name="F:EnigmaBinaryTest.ConfigurationTypes.ROTOR_PARAMETERS">
+            <summary>
+            Rotor parameters only.
+            </summary>
+        </member>
+        <member name="F:EnigmaBinaryTest.ConfigurationTypes.ENTRYROTOR_INSTANCE">
+            <summary>
+            Entry Rotor instance object.
+            </summary>
+        </member>
+        <member name="F:EnigmaBinaryTest.ConfigurationTypes.ENTRYROTOR_PARAMETERS">
+            <summary>
+            Entry Rotor parameters only.
+            </summary>
+        </member>
+        <member name="F:EnigmaBinaryTest.ConfigurationTypes.REFLECTOR_INSTANCE">
+            <summary>
+            Reflector instance object.
+            </summary>
+        </member>
+        <member name="F:EnigmaBinaryTest.ConfigurationTypes.REFLECTOR_PARAMETERS">
+            <summary>
+            Reflector parameters only.
+            </summary>
+        </member>
+        <member name="F:EnigmaBinaryTest.ConfigurationTypes.TURN_INSTANCE">
+            <summary>
+            Turn instance object.
+            </summary>
+        </member>
+        <member name="F:EnigmaBinaryTest.ConfigurationTypes.PLUGBOARD_INSTANCE">
+            <summary>
+            Plugboard instance object.
+            </summary>
+        </member>
+        <member name="F:EnigmaBinaryTest.ConfigurationTypes.PLUGBOARD_PARAMETERS">
+            <summary>
+            Plugboard Parameters.
+            </summary>
+        </member>
+        <member name="T:EnigmaBinaryTest.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:EnigmaBinaryTest.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:EnigmaBinaryTest.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:EnigmaBinaryTest.Properties.Resources.MatrixLarge">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:EnigmaBinaryTest.Properties.Resources.matrixlarge_2">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:EnigmaBinaryTest.Properties.Resources.Photodisc">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:EnigmaBinaryTest.Properties.Resources.T1MB">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:EnigmaBinaryTest.Properties.Resources.T20MB">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+        <member name="P:EnigmaBinaryTest.Properties.Resources.T2MB">
+            <summary>
+              Looks up a localized resource of type System.Byte[].
+            </summary>
+        </member>
+    </members>
+</doc>
