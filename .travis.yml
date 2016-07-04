@@ -10,3 +10,4 @@ after_script:
     - "SET PATH=C:\\Python34;C:\\Python34\\Scripts;%PATH%"
     - pip install codecov
     - codecov -f "EnigmaBinaryTest_coverage.xml
+    - bash <(curl -s https://codecov.io/bash)
