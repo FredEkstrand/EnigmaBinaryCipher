@@ -69,6 +69,3 @@ comment:
   branches: null
   behavior: default
 token: 53530244-8d2d-4723-8a96-e0b3e1dd74e7
-curl --data-binary @codecov.yml https://codecov.io/validate
-after_success:
-  - bash <(curl -s https://codecov.io/bash)
