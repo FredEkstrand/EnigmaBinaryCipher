@@ -3,3 +3,4 @@ C:\Users\Fred Ekstrand\Documents\Github\EnigmaBinary\EnigmaBinary\bin\Release\En
 C:\Users\Fred Ekstrand\Documents\Github\EnigmaBinary\EnigmaBinary\bin\Release\EnigmaBinaryCipher.pdb
 C:\Users\Fred Ekstrand\Documents\Github\EnigmaBinary\EnigmaBinary\obj\Release\EnigmaBinaryCipher.dll
 C:\Users\Fred Ekstrand\Documents\Github\EnigmaBinary\EnigmaBinary\obj\Release\EnigmaBinaryCipher.pdb
+C:\Users\Fred Ekstrand\Documents\Github\EnigmaBinary\EnigmaBinary\obj\Release\EnigmaBinary.csprojResolveAssemblyReference.cache
