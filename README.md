@@ -7,7 +7,7 @@ More on this can be read [here](https://oddsandendscoding.wordpress.com/2016/06/
   <img src="https://codecov.io/gh/FredEkstrand/EnigmaBinaryCipher/branch/master/graph/badge.svg" alt="Codecov" />
 </a>
 <br/>
-[Enigma Binary Cipher API](http://fredekstrand.github.io/)
+[Enigma Binary Cipher API](http://fredekstrand.github.io/tree/master/html/EnigmaBinaryCipher)
 <br/>
 [Enigma dll and files](https://github.com/FredEkstrand/EnigmaBinaryCipher/releases)
 
