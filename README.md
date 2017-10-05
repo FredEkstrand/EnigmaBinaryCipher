@@ -4,6 +4,8 @@
 # Overview
 A German WWII Enima Cipher for binary files.
 
+![image](https://github.com/FredEkstrand/ImageFiles/raw/master/BinaryEnigma.png)
+
 ## Features
 * Feature 1
 * Feature 2
@@ -37,5 +39,3 @@ email: fredekstrandgithub@gmail.com
 ## Licensing
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-
