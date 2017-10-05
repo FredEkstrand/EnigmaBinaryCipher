@@ -22,7 +22,6 @@ using Ekstrand;
 
 ## Documentation
 Class documentation can be found [here](http://fredekstrand.github.io/EnigmaBinaryCipher).
-[Enigma Binary Cipher 
 
 ## History
  1.0.0 Initial release into the wild.
