@@ -6,6 +6,7 @@ using Ekstrand.Encryption.Ciphers;
 
 namespace EnigmaBinaryTest
 {
+    [ExcludeFromCoverageAttribute]
     public class FakePlugboard : IPlugboard
     { 
         private Dictionary<byte, byte> m_Translation = new Dictionary<byte, byte>(256);

@@ -1,1 +1,2 @@
 C:\Users\Fred Ekstrand\Documents\Github\EnigmaBinary\EnigmasSecurity\bin\Release\EnigmasSecurity.exe.config
+C:\Users\frede\Documents\GitHub\EnigmaBinaryCipher\EnigmasSecurity\bin\Release\EnigmasSecurity.exe.config

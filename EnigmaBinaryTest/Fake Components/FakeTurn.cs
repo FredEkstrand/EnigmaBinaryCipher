@@ -5,7 +5,8 @@ using System.Text;
 using Ekstrand.Encryption.Ciphers;
 
 namespace EnigmaBinaryTest
-{ 
+{
+    [ExcludeFromCoverageAttribute]
     public class FakeTurn : ITurn
     {
 #pragma warning disable CS0414 // In use but compiler insists it is not.

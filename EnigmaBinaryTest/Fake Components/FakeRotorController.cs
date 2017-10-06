@@ -6,7 +6,8 @@ using System.Text;
 using Ekstrand.Encryption.Ciphers;
 
 namespace EnigmaBinaryTest
-{ 
+{
+    [ExcludeFromCoverageAttribute]
     public class FakeRotorController : IRotorController
     {
 

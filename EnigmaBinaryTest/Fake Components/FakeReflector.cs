@@ -5,7 +5,8 @@ using System.Text;
 using Ekstrand.Encryption.Ciphers;
 
 namespace EnigmaBinaryTest
-{ 
+{
+    [ExcludeFromCoverageAttribute]
     public class FakeReflector : IRotor
     {
         private Dictionary<byte, byte> m_Translation = new Dictionary<byte, byte>(256);

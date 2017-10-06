@@ -4,3 +4,9 @@ C:\Users\Fred Ekstrand\Documents\Github\EnigmaBinary\EnigmaBinary\bin\Release\En
 C:\Users\Fred Ekstrand\Documents\Github\EnigmaBinary\EnigmaBinary\obj\Release\EnigmaBinaryCipher.dll
 C:\Users\Fred Ekstrand\Documents\Github\EnigmaBinary\EnigmaBinary\obj\Release\EnigmaBinaryCipher.pdb
 C:\Users\Fred Ekstrand\Documents\Github\EnigmaBinary\EnigmaBinary\obj\Release\EnigmaBinary.csprojResolveAssemblyReference.cache
+C:\Users\frede\Documents\GitHub\EnigmaBinaryCipher\EnigmaBinary\bin\Release\EnigmaBinaryCipher.xml
+C:\Users\frede\Documents\GitHub\EnigmaBinaryCipher\EnigmaBinary\bin\Release\EnigmaBinaryCipher.dll
+C:\Users\frede\Documents\GitHub\EnigmaBinaryCipher\EnigmaBinary\bin\Release\EnigmaBinaryCipher.pdb
+C:\Users\frede\Documents\GitHub\EnigmaBinaryCipher\EnigmaBinary\obj\Release\EnigmaBinaryCipher.dll
+C:\Users\frede\Documents\GitHub\EnigmaBinaryCipher\EnigmaBinary\obj\Release\EnigmaBinaryCipher.pdb
+C:\Users\frede\Documents\GitHub\EnigmaBinaryCipher\EnigmaBinary\obj\Release\EnigmaBinary.csprojResolveAssemblyReference.cache
