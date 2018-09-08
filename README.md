@@ -2,7 +2,7 @@
 
 ![Version 1.0.0](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg) ![License MIT](https://img.shields.io/badge/Licence-MIT-blue.svg) [![Build Status](https://travis-ci.org/FredEkstrand/EnigmaBinaryCipher.svg?branch=master)](https://travis-ci.org/FredEkstrand/EnigmaBinaryCipher)
 # Overview
-A German WWII Enigma Cipher for binary files.
+A German WWII Enigma Cipher for binary files.  
 This version reflects closely to the mechanical Enigma and is not a mathematical version of the Enigma cipher.
 ![image](https://github.com/FredEkstrand/ImageFiles/raw/master/BinaryEnigma.png)
 
