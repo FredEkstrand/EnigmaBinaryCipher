@@ -1,6 +1,6 @@
 ![Project type](https://github.com/FredEkstrand/ImageFiles/raw/master/CodeIcon.png )
 
-![Version 1.0.0](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg) ![License MIT](https://img.shields.io/badge/Licence-MIT-blue.svg) [![Build Status](https://travis-ci.org/FredEkstrand/EnigmaBinaryCipher.svg?branch=master)](https://travis-ci.org/FredEkstrand/EnigmaBinaryCipher)[![HitCount](http://hits.dwyl.io/fredekstrand/EnigmaBinaryCipher.svg)](http://hits.dwyl.io/fredekstrand/EnigmaBinaryCipher)
+![Version 1.0.0](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg) ![License MIT](https://img.shields.io/badge/Licence-MIT-blue.svg) [![Build Status](https://travis-ci.org/FredEkstrand/EnigmaBinaryCipher.svg?branch=master)](https://travis-ci.org/FredEkstrand/EnigmaBinaryCipher) [![HitCount](http://hits.dwyl.io/fredekstrand/EnigmaBinaryCipher.svg)](http://hits.dwyl.io/fredekstrand/EnigmaBinaryCipher)
 # Overview
 A German WWII Enigma Cipher for binary files.  
 This version reflects closely to the mechanical Enigma and is not a mathematical version of the Enigma cipher.
