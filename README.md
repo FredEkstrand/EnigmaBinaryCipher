@@ -40,8 +40,8 @@ ebc.ProcessBytes(m_ToEncryptMsg, 0, m_ToEncryptMsg.Length, m_EncryptedMsg, 0);
 ```
 Decryption example:
 ```csharp
-Byte[] m_ToEncryptMsg;	// Byte array to be encrypted.
-Byte[] m_EncryptedMsg;	// Byte array for encrypted.
+Byte[] m_EncryptMsg;	// Byte array to be decrypted.
+Byte[] m_DecryptedMsg;	// Byte array for decrypted.
 EnigmaBinary ebc = new EnigmaBinary();	// Create a new instance.
 ebc.Init(false,ebp);	// Initialize the cipher for decryption using cipher configuration parameters.
 
