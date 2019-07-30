@@ -29,21 +29,21 @@ using Ekstrand;
 
 Encryption example:
 ```csharp
-Byte[] m_ToEncryptMsg														// Byte array to be encrypted.
-Byte[] m_EncryptedMsg													  // Byte array for encrypted.
-EnigmaBinary ebc = new EnigmaBinary();				  // Create a new instance.
-ebc.Init();																      // Initialize the cipher which includes generating the entry rotor, rotors, plug-board, and reflector end points.
-EnigmaBinaryParameters ebp = ebc.ReturnConfiguration();					  // Create a enigma binary parameters object which would have all the cipher settings.
+Byte[] m_ToEncryptMsg;	  // Byte array to be encrypted.
+Byte[] m_EncryptedMsg; // Byte array for encrypted.
+EnigmaBinary ebc = new EnigmaBinary();	// Create a new instance.
+ebc.Init();		// Initialize the cipher which includes generating the entry rotor, rotors, plug-board, and reflector end points.
+EnigmaBinaryParameters ebp = ebc.ReturnConfiguration();	// Create a enigma binary parameters object which would have all the cipher settings.
 
 //Method parameters: byte[] toEncrypet, starting index, end index, byte[] encrypted, starting index
 ebc.ProcessBytes(m_ToEncryptMsg, 0, m_ToEncryptMsg.Length, m_EncryptedMsg, 0);
 ```
 Decryption example:
 ```csharp
-Byte[] m_ToEncryptMsg														// Byte array to be encrypted.
-Byte[] m_EncryptedMsg														// Byte array for encrypted.
-EnigmaBinary ebc = new EnigmaBinary();					// Create a new instance.
-ebc.Init(false,ebp);													  // Initialize the cipher for decryption using cipher configuration parameters.
+Byte[] m_ToEncryptMsg;	// Byte array to be encrypted.
+Byte[] m_EncryptedMsg;	// Byte array for encrypted.
+EnigmaBinary ebc = new EnigmaBinary();	// Create a new instance.
+ebc.Init(false,ebp);	// Initialize the cipher for decryption using cipher configuration parameters.
 
 //Method parameters: byte[] To_decrypt, starting index, end index, byte[] decrypted, starting index
 ebc.ProcessBytes(m_EncryptMsg, 0, m_EncryptMsg.Length, m_DecryptedMsg, 0);
