@@ -16,7 +16,6 @@ The Enigma binary cipher provides a number of configuration abilities to provide
 * Settings can be exported or imported.
 
 # Getting started
-
 The souce code is written in C# and targeted for the .Net Framework 4.0 and later. Download the entire project and compile.
 
 # Usage
