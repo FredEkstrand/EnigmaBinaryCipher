@@ -53,7 +53,7 @@ The enigma binary cipher code is tested using NUnit.
 The NUnit testing consists of Unit-testing to integration testing of all logical components and is included as part of the project code.
 
 # Code Documentation
-MSDN-style code documentation can be found [here](http://fredekstrand.github.io/EnigmaBinaryCipher).
+MSDN-style code documentation can be found [here](http://fredekstrand.github.io/ClassDocEnigmaBinaryCipher).
 
 # History
  1.0.0 Initial release into the wild.
