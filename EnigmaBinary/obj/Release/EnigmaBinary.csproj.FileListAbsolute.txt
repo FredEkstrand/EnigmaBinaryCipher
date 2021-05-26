@@ -10,3 +10,10 @@ C:\Users\frede\Documents\GitHub\EnigmaBinaryCipher\EnigmaBinary\bin\Release\Enig
 C:\Users\frede\Documents\GitHub\EnigmaBinaryCipher\EnigmaBinary\obj\Release\EnigmaBinaryCipher.dll
 C:\Users\frede\Documents\GitHub\EnigmaBinaryCipher\EnigmaBinary\obj\Release\EnigmaBinaryCipher.pdb
 C:\Users\frede\Documents\GitHub\EnigmaBinaryCipher\EnigmaBinary\obj\Release\EnigmaBinary.csprojResolveAssemblyReference.cache
+C:\SoftwareProjects\EnigmaBinaryCipher\EnigmaBinary\bin\Release\EnigmaBinaryCipher.xml
+C:\SoftwareProjects\EnigmaBinaryCipher\EnigmaBinary\bin\Release\EnigmaBinaryCipher.dll
+C:\SoftwareProjects\EnigmaBinaryCipher\EnigmaBinary\bin\Release\EnigmaBinaryCipher.pdb
+C:\SoftwareProjects\EnigmaBinaryCipher\EnigmaBinary\obj\Release\EnigmaBinary.csprojAssemblyReference.cache
+C:\SoftwareProjects\EnigmaBinaryCipher\EnigmaBinary\obj\Release\EnigmaBinary.csproj.CoreCompileInputs.cache
+C:\SoftwareProjects\EnigmaBinaryCipher\EnigmaBinary\obj\Release\EnigmaBinaryCipher.dll
+C:\SoftwareProjects\EnigmaBinaryCipher\EnigmaBinary\obj\Release\EnigmaBinaryCipher.pdb

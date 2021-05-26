@@ -1,20 +1,20 @@
 /*
-	Software Developer: Fred Ekstrand 
+    Software Developer: Fred Ekstrand 
     Copyright (C) 2016 by: Fred Ekstrand
 
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), 
-	to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
-	and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+    to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
+    and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
-	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE SOFTWARE DEVLOPER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER 
-	IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE SOFTWARE DEVLOPER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER 
+    IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
     Except as contained in this notice, the name of the software developer shall not be used in advertising or otherwise to promote the sale, 
-	use or other dealings in this "Software" without prior written authorization from the software developer.
+    use or other dealings in this "Software" without prior written authorization from the software developer.
  */
 using System;
 using System.Collections.Generic;
@@ -29,7 +29,7 @@ namespace Ekstrand.Encryption.Ciphers
     /// <seealso cref="IStreamCipher" />
     [Serializable]
     public class EnigmaBinary : IStreamCipher
-	{
+    {
         #region Variables
 
         private EnigmaManager m_EnigmaManager;
@@ -50,7 +50,7 @@ namespace Ekstrand.Encryption.Ciphers
         /// Initializes a new instance of the <see cref="EnigmaBinary"/> class.
         /// </summary>
         public EnigmaBinary()
-		{
+        {
             m_Initialized = false;
             m_Encrypt = true;
         }
@@ -65,7 +65,7 @@ namespace Ekstrand.Encryption.Ciphers
         /// <param name="forEncryption">Initialize for encryption if true, for decryption if false.</param>
         /// <param name="parameters">The key or other data required by the cipher.</param>
         public void Init(bool forEncryption = true, ICipherParameters parameters = null)
-		{
+        {
             m_Encrypt = forEncryption;
             m_EnigmaManager = new EnigmaManager(parameters);
             m_EnigmaManager.Initialize();
@@ -99,7 +99,7 @@ namespace Ekstrand.Encryption.Ciphers
         /// Output buffer too short.
         /// </exception>
         public void ProcessBytes(byte[] input, int inOff, int length, byte[] output, int outOff)
-		{
+        {
             if(!m_Initialized)
             {
                 throw new InvalidOperationException("You must call Init(...) before processing blocks");
@@ -126,7 +126,7 @@ namespace Ekstrand.Encryption.Ciphers
         /// Reset the cipher to the same state as it was after the last init (if there was one).
         /// </summary>
         public void Reset()
-		{
+        {
             m_EnigmaManager.Reset();
             m_SettingsInUse = false;
 
@@ -152,12 +152,12 @@ namespace Ekstrand.Encryption.Ciphers
         /// The name of the algorithm.
         /// </value>
         public string AlgorithmName
-		{
-			get
-			{
+        {
+            get
+            {
                 return "EnigmaBinary";
-			}
-		}
+            }
+        }
 
         /// <summary>
         /// Indicates whether this cipher can handle partial blocks.
@@ -166,12 +166,12 @@ namespace Ekstrand.Encryption.Ciphers
         /// <c>true</c> if this instance is partial block okay; otherwise, <c>false</c>.
         /// </value>
         public bool IsPartialBlockOkay
-		{
-			get
-			{
+        {
+            get
+            {
                 return false;
-			}
-		}
+            }
+        }
 
         /// <summary>
         /// Gets the version.

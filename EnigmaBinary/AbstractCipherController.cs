@@ -18,8 +18,6 @@
  */
 
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Ekstrand.Encryption.Ciphers
 {
@@ -29,7 +27,7 @@ namespace Ekstrand.Encryption.Ciphers
     /// <seealso cref="ICipherController" />
     [Serializable]
     public abstract class AbstractCipherController : ICipherController
-	{
+    {
 #pragma warning disable CS1591 // Missing XML comment for publicly visible type or member
         protected bool m_Initialized = false;
 
@@ -89,9 +87,9 @@ namespace Ekstrand.Encryption.Ciphers
         /// The rotor controller.
         /// </value>
         public IRotorController RotorController
-		{
+        {
             get; set;
-		}
+        }
 
         /// <summary>
         /// Gets or sets the plugboard.
@@ -100,9 +98,9 @@ namespace Ekstrand.Encryption.Ciphers
         /// The plugboard.
         /// </value>
         public IPlugboard Plugboard
-		{
+        {
             get; set;
-		}
+        }
 
         #endregion
     }
